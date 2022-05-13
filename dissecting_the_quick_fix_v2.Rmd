@@ -1,0 +1,143 @@
+---
+title: 'Dissecting the quick fix: Analysing tech-solutionist solutions'
+output:
+  html_document: default
+  pdf_document: default
+editor_options: 
+  markdown: 
+    wrap: 72
+date: '2022-03-24'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Tech solutionism
+
+Definition, examples will follow
+
+### Dimensions 
+
+Utility
+
+Hubris (civil/understated version)
+
+### Utility
+
+Problem: Race riots
+
+Fix: Air conditioning
+
+> [...] this immediately suggested that providing air conditioners ...
+> might considerably reduce the probability of race rioting. Admittedly
+> this is a superficial and possibly heartless approach to the problem;
+> yet it has the advantage that it just might work.
+
+(Alvin Weinberg, techno-fix evangelist. From: [S. F. Johnston,
+Techno-fixers,
+2020.](https://www.mqup.ca/techno-fixers-products-9780228001324.php))
+
+### Hubris (civil/understated version)
+
+Problem: Wars
+
+Fix: H-bomb
+
+> Before the H-bomb, the problem of war was largely viewed as being
+> insoluble unless we changed "human nature", but by exploiting the
+> crassest notion of self-preservation, the H-bomb offers a quite
+> different "solution" to the problem of war than the whole
+> Judaeo-Christian tradition teaches is possible.
+>
+> So to speak, to push the theme to its illogical end, one can ask "will
+> technology make social science obsolete?" -- i.e. "can a cheap
+> technological fix be developed for every social problem that
+> short-cuts and makes irrelevant the issues of human conflict that
+> underlie the problem as traditionally viewed?
+
+(Alvin Weinberg, techno-fix evangelist.)
+
+### Hubris (the contemporary version) we all know
+
+Problem: climate change ...
+
+Fix: ...
+
+### Hopelessness
+
+TBD
+
+### There's much to be said about these aspects, yet this talk has a different focus.
+
+## 
+
+Description of tech solutionism in terms of the above dimensions is not
+helpful in terms of assessing individual proposals:
+
+-   Utility always seems to be on the side of the proponent (until
+    negative consequences come out)
+-   Hubris is a value judgment; either shared or not.
+-   Despair - in this context - is all too comprehensible.
+
+What we need is a framework - of sorts - that enables us to analyze a
+solution along "communicatable", weightable, explicit dimensions.
+
+For such a structured-analysis approach, what are the *sine qua non*s?
+
+There's at least one: An analysis may NOT be restricted to the purely
+technical.
+
+Suggestion: For maximum openness and generality, follow the
+**W**-questions (plus **how**).
+
+How to *weight* those will depend on the individual "solution", and will
+require deliberation as well.
+
+In general, to counter-balance established ways of thinking, we'll want
+to re-distribute focus from the WHAT to the WHO and WHY.
+
+### Not just WHAT, but WHO, WHY, and HOW (and WHERE and WHEN and to WHOM)
+
+### WHAT
+
+What does the "solution" do?
+
+This is to be understood as comprising the complete technical workflow,
+starting from what datasets were used, how a model was trained, etc. up
+to and including how it was evaluated.
+
+### WHERE and WHEN and to WHOM
+
+Where, when, and to whom will the "solution" be applied?
+
+This is meant to designate elaboration of the complete (geographical,
+social, political) context.
+
+### WHO
+
+Who developed, implements, has control over the "solution"? Who has
+access to its data?
+
+A primary type of distinction (though it too has to be seen in
+context!): *company vs. public institution*
+
+### WHY
+
+Why was this solution developed? Complementing the publicly stated
+motivation, motivations could include
+
+-   extracting data (maybe to be employed for other purposes)
+
+-   polishing the company's public image (whitewashing)
+
+-   ambition
+
+### Rounding up, we see that two more dimensions have appeared:
+
+-   Instrumentality
+-   Politics
+
+### Instrumentality
+
+### Politics
