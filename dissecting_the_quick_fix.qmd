@@ -104,11 +104,11 @@ hubris
 -   Who knows how it works?
 -   Who is accountable?
 
-## WHO is *who*?
+## Who is *WHO*?
 
-Assumption:
+Basic assumption:
 
-Agents can be located on a dimension of democratic "electedness"/"justifiedness", with the ideal democracy on one side and privately-managed institutions on the other (corporations, foundations, NGOs).
+**Agents can be located on a dimension of democratic "electedness"/"justifiedness", with the ideal democracy on one side and privately-managed institutions on the other (corporations, foundations, NGOs).**
 
 # Two examples (of many) where the WHO matters:  education & climate change
 
@@ -153,11 +153,51 @@ Agents can be located on a dimension of democratic "electedness"/"justifiedness"
 
 -   Democratic institutions can be held to minimize social-credit mechanisms operating through technology use.
 
-# Climate change
+## *Fixing* cimate change: The technologies
+
+-   Carbon Capture and Storage (CCS)
+-   Air Source Heat Pumps
+-   Clean Hydrogen
+-   Carbon offsets
+
+::: notes
+-   Carbon offsets: evicting people from their lands, local food crises,
+:::
+
+## *Fixing* climate change: What it says and what it means
+
+-   "net zero"
+-   "resilience", "adaptation", "mitigation"
+
+## Revisiting the Who is *WHO*?
+
+-   With topics like climate change, it is not enough to insist on locally-elected democratic institutions.
+
+## *Fixing* climate change: The seduction
+
+-   If we apply fix \[x\], we don't have to change our lifestyles.
+-   If we apply fix \[x\], we don't have to change society.
+-   If we apply fix \[x\], we don't have to give up our privileges.
+
+## *Fixing* climate change: Why public, not private?
+
+-   Democratic institutions can be held to not favor strategies that result in monetary gain (example: carbon credits)
+-   Democratic institutions can be expected not to take the action in question to further their influence, strengthen their power, and promote their conceptions of how the world ought to be.
+-   Democratic institutions can be held to favor actions that *promote social justice*.
+-   Democratic institutions can be expected not to have a need for *greenwashing*.
+-   Democratic institutions can be expected not to act under the incentive of extracting data and powering their AIs.
+-   Democratic institutions can be expected not to use climate concerns as a business opportunity likely to attract large amounts of venture capital.
+-   Democratic institutions can be held to implement non-individualistic solutions.
+
+### WHOs I would like
+
+not go into detail
 
 ### WHYs I would like
 
--   I worry about this
--   Greta Thunberg \## ss
+-   I can't sleep because of this
+-   We have a responsibility
+-   We have no right to ...
+-   This is so *unjust*
 
-### WHOs I would like
+### 
