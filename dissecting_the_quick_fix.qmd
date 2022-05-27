@@ -6,84 +6,106 @@ editor: visual
 
 ## Tech solutionism
 
-Definition, sort of
+> The tendency to use technology to solve any (organizational, societal, environmental, ...) problem.
 
-## The ugly face of solutionism
+::: notes
+Often defined as "the belief that technology can be used to solve any problem". Want to allow for a range of views instead.
 
-(disgusting examples)
+Commonly linked to Evgenij Morozov's *From Save Everything, Click Here: The Folly of Technological Solutionism* (2013).
 
-hubris
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## But if we rely on (shared) disgust and outrage only ...
+Now, it would be easy to show disgusting examples, examples like the one given by Sean Johnston in his 2020 book *Techno-Fixers*, about using air conditioning to turn down the likelihood of race riots.
 
--   we won't be able to spot less flagrant cases
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+But if we rely on (shared) disgust and outrage only ...
+
+-   we won't be able to spot less aversive cases
 -   we won't be able to convince others
+:::
 
-## Let's instead see what's so seductive about it
+# Let's see what's so seductive about it
 
--   It *solves* a problem.
--   It solves a *problem*.
--   It solves a *hard* *problem*.
--   It solves a *problem* we don't really know how to solve otherwise.
--   It solves a *problem* whose other solutions involve *sacrifices*.
--   It solves a problem we're terribly scared about.
+::: notes
+-   It *solves* a problem. (A tautology, but an important one.)
+-   It solves a *problem*. (Shifting focus, ...)
+-   It solves a *hard* *problem*. (Why else would we care.)
+-   It solves a *problem* we don't really know how to solve otherwise. (And there are many of them.)
+-   It solves a *problem* whose other solutions would involve *sacrifices*. (That's the last thing we want.)
+-   It solves a problem we're terribly *scared* about.
+:::
 
 # We need to be more clear about how we assess "solutions"
 
-## The desiderate
+::: notes
+We would like
 
 -   A framework to analyze a "solution" along explicit, communicable, and weighteable dimensions.
 -   Essential point: An analysis may NOT be restricted to the purely technical.
 -   Suggestion: For maximum openness and generality, follow the **W**-questions (plus **how**).
 -   To counter-balance the usual type of discourse, we'll want to re-distribute focus from the WHAT to the *WHO* and *WHY*.
+:::
 
 # Not just WHAT - and WHERE and WHEN and HOW - but WHO and WHY
 
-## WHAT, WHERE, WHEN, HOW
+::: notes
+Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 
 -   *What* does the "solution" do? I.e. the complete technical workflow, starting from what datasets were used, how a model was trained, up to and including how it was evaluated.
 
 -   *Where*, *when*, and *to whom* will the "solution" be applied? I.e. the complete (geographical, social, political) context.
 
 -   How exactly will the solution be applied? Details matter.
+:::
 
 # Dissecting the WHY
 
-## WHY: What is said
+# WHY: What is said
 
+::: notes
 -   We want to help.
 -   We care.
 -   We're here for you.
+:::
 
-## WHY: What is *not* said - individual reasons
+# WHY: What is *not* said - individual reasons
 
+::: notes
 -   This will look good on my resume.
 -   This might just get me a job at \[company x\].
 -   This is something one could launch a startup for.
 -   This is a great reason to learn/use technology \[insert currently-hyped technology here\].
 -   It's just so cool that this *can even be done*.
+:::
 
-## WHY: What is *not* said - organizational reasons
+# WHY: What is *not* said - organizational reasons
 
+::: notes
 -   If we do this, we'll score high on the *Benefactors of Humanity* list.
 
 -   If we do this, we counteract the negative image recently created by \[insert here\].
 
 -   If we do this, we'll be strengthening our existing \[but always threatened\] monopoly.
+:::
 
-## WHY: What is *not* said - useful side effects
+# WHY: What is *not* said - useful side effects
 
+::: notes
 -   If we implement this, we'll be able to harvest valuable data \[to be used in targeted advertising\].
 -   If we implement this, we'll be able to harvest valuable data \[to be used to train our neural networks\].
 -   If we do this, we'll have a foot in the door to \[build a yet more useful thing\].
+:::
 
-## WHY: What is *not* said - power
+# WHY: What is *not* said - power
 
+::: notes
 -   If we do this, \[government x, public org y, ...\] will not be able to get rid of us.
 -   If we do this, we can seriously shape how people live.
 -   If we do this, we can seriously shape how people think.
 -   If we do this, we can seriously shape how people feel.
 -   If we do this, we can seriously shape what people *are*.
+:::
 
 ### Zoom in on the WHY
 
@@ -93,58 +115,69 @@ hubris
 
 <https://80000hours.org/articles/what-is-social-impact-definition/>
 
-### 
-
 # Dissecting the WHO
 
-## WHO means what?
+# WHO is about what exactly ...?
 
+::: notes
 -   Who designs, implements, and hosts the "solution"?
 -   Who processes its data?
 -   Who knows how it works?
 -   Who is accountable?
+:::
 
-## Who is *WHO*?
+## So *who is* WHO?
 
 Basic assumption:
 
-**Agents can be located on a dimension of democratic "electedness"/"justifiedness", with the ideal democracy on one side and privately-managed institutions on the other (corporations, foundations, NGOs).**
+**Agents can be located on a dimension of democratic "electedness"/"justifiedness", with the ideal democracy on one side and privately-managed institutions (corporations, foundations, NGOs) on the other.**
 
-# Two examples (of many) where the WHO matters:  education & climate change
+::: notes
+We will see that this is not quite sufficient when talking about the second of two areas of application.
+:::
 
-## Education technology: What is said
+# Two examples (of many) where the WHO matters: education & climate change
 
+# Education technology: What is said
+
+::: notes
 -   With \[adaptive technology x\], each learner's individual needs are met.
 
 -   Thanks to \[x\], pressure on teachers diminishes.
+:::
 
-## Education technology: What is *not* said
+# Education technology: What is *not* said
 
+::: notes
 -   We restrict teachers' options to shape their work.
 -   We record, process and store a lot of \[extremely\] personal data.
--   You learn; *we're learning*.
+-   You learn; *we're learning* from you.
 -   We define *what* is learned.
 -   We define *how* people learn.
 -   We define what is conveyed *between the lines*.
+:::
 
-## Education technology: Why public, not private?
+# Education technology: Why public, not private?
 
-### (1) Business models
+# (1) Business models
 
+::: notes
 -   Democratic institutions do not need to extract private data to make money.
 
 -   Democratic institutions don't need to feed back fresh data into their large deep learning models.
+:::
 
-#### 
+# (2) Political and legal aspects
 
-### (2) Political and legal aspects
-
+::: notes
 -   Democratic institutions can be held to to ensure transparency.
 -   Democratic institutions can be held *accountable*.
 -   Democratic institutions can be held to to ensure that errors are fixed.
+:::
 
-### (3) Human rights and values
+# (3) Human rights and values
 
+::: notes
 -   Democratic institutions can be held to respect human rights.
 
 -   Democratic institutions can be held to prioritize values over feasibility.
@@ -152,6 +185,7 @@ Basic assumption:
 -   Democratic institutions can be held to support -- not eliminate -- people's individuality.
 
 -   Democratic institutions can be held to minimize social-credit mechanisms operating through technology use.
+:::
 
 ## *Fixing* cimate change: The technologies
 
@@ -164,40 +198,44 @@ Basic assumption:
 -   Carbon offsets: evicting people from their lands, local food crises,
 :::
 
-## *Fixing* climate change: What it says and what it means
+# *Fixing* climate change: What it says and what it means
 
 -   "net zero"
 -   "resilience", "adaptation", "mitigation"
 
-## Revisiting the Who is *WHO*?
+## Revisiting the *who* is WHO?
 
--   With topics like climate change, it is not enough to insist on locally-elected democratic institutions.
+-   With topics like climate change, it is not enough to insist on *locally-elected* democratic institutions.
 
-## *Fixing* climate change: The seduction
+# *Fixing* climate change: The seduction
 
+::: notes
 -   If we apply fix \[x\], we don't have to change our lifestyles.
 -   If we apply fix \[x\], we don't have to change society.
 -   If we apply fix \[x\], we don't have to give up our privileges.
+:::
 
-## *Fixing* climate change: Why public, not private?
+# *Fixing* climate change: Why public, not private?
 
+::: notes
 -   Democratic institutions can be held to not favor strategies that result in monetary gain (example: carbon credits)
 -   Democratic institutions can be expected not to take the action in question to further their influence, strengthen their power, and promote their conceptions of how the world ought to be.
 -   Democratic institutions can be held to favor actions that *promote social justice*.
 -   Democratic institutions can be expected not to have a need for *greenwashing*.
 -   Democratic institutions can be expected not to act under the incentive of extracting data and powering their AIs.
 -   Democratic institutions can be expected not to use climate concerns as a business opportunity likely to attract large amounts of venture capital.
--   Democratic institutions can be held to implement non-individualistic solutions.
+-   Democratic institutions can be held to implement non-individualistic solutions. **Viljoen: Individualistic solutions (whether human rights-based or neoliberal) do not address the problem of horizontal data relations, and therefore fail to act in the direction of justice.**
 
-### WHOs I would like
+### 
+:::
 
-not go into detail
-
-### WHYs I would like
+## WHYs I would like
 
 -   I can't sleep because of this
 -   We have a responsibility
 -   We have no right to ...
 -   This is so *unjust*
 
-### 
+## WHOs I would like
+
+Democratic institutions, pursuing the goal of global social justice.
