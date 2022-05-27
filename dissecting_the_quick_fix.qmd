@@ -1,5 +1,6 @@
 ---
-title: "Untitled"
+title: "Dissecting the quick fix"
+subtitle: "Analysing tech-solutionist solutions"
 format: revealjs
 editor: visual
 ---
@@ -13,11 +14,11 @@ Often defined as "the belief that technology can be used to solve any problem". 
 
 Commonly linked to Evgenij Morozov's *From Save Everything, Click Here: The Folly of Technological Solutionism* (2013).
 
------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 Now, it would be easy to show disgusting examples, examples like the one given by Sean Johnston in his 2020 book *Techno-Fixers*, about using air conditioning to turn down the likelihood of race riots.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 But if we rely on (shared) disgust and outrage only ...
 
@@ -107,13 +108,80 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 -   If we do this, we can seriously shape what people *are*.
 :::
 
-### Zoom in on the WHY
+## https://80000hours.org: Choice of career is just another optimization problem.
 
-<https://80000hours.org/problem-profiles/>
+> You have about 80,000 hours in your career: 40 hours per week, 50 weeks per year, for 40 years. \[...\]\[...\], we now think the impact you can have in different career paths --- however exactly you define 'impact' --- is driven by four main factors:
+>
+> 1.  How **pressing the problems** you focus on are
+>
+> 2.  How **effective the solutions** you pursue are
+>
+> 3.  The amount of **leverage** you can apply to those solutions
+>
+> 4.  Your **personal fit** for the path
 
-[https://80000hours.org/make-a-difference-with-your-career/?int_campaign=2021-12--primary-navigation\_\_start-here](https://80000hours.org/make-a-difference-with-your-career/?int_campaign=2021-12–primary-navigation__start-here)
+![](80000hours.png)
 
-<https://80000hours.org/articles/what-is-social-impact-definition/>
+## How pressing the problems you focus on are: Top risk
+
+> The annual risk of an all-out nuclear exchange is small, but it's not zero: \[...\] The average of several expert surveys is an annual probability of 0.4%. Compounded over our lives and the lives of our children, this adds up to a substantial chance of a catastrophe potentially more devastating than climate change.
+
+## How pressing the problems you focus on are: "Highest priority areas"
+
+> -   Positively shaping the development of artificial intelligence
+>
+> ```{=html}
+> <!-- -->
+> ```
+> -   Global priorities research
+>
+> -   Building effective altruism
+>
+> -   Reducing global catastrophic biological risks
+>
+> -   \[could be:\]: Mitigating great power conflict
+>
+> -   \[could be:\]: Global governance
+>
+> -   \[could be:\]: Space governance
+
+## How pressing the problems you focus on are: "Highest priority areas"
+
+> ### Second-highest priority areas
+>
+> -   Nuclear security
+>
+> ```{=html}
+> <!-- -->
+> ```
+> -   Improving institutional decision-making
+>
+> -   Climate change (extreme risks)
+
+## How pressing the problems you focus on are: "Less pressing"
+
+> We'd love to see more people working on these issues, but given our general worldview they seem less pressing than our priority problems:
+>
+> -   Factory farming
+>
+> -   Global health
+
+## Time to look at those values: "Long-termism"
+
+> This means that if you want to make the world better in an *impartial* way --- i.e. without regard to people's race, class, or where or *when* they're born --- then what most matters morally is that the future goes as well as it can for all generations to come. We've called this the 'long-term value thesis.'
+>
+> If it turned out that the best way to help those in the future is to improve the lives of people in the present, such as through providing health and education, then longtermists would focus on that. The difference is that the biggest *reason* to help those in the present would be to improve the long term.
+
+## Time to look at those values: "Social impact"
+
+![](social_impact.png)
+
+> "Social impact" or "making a difference" is (tentatively) about promoting total expected wellbeing --- considered impartially, over the long term --- without sacrificing anything that might be of comparable moral importance.
+
+> Thus we think it's important to respect other values as well --- e.g. autonomy and fairness. We find that this rarely
+> comes up --- respecting people's autonomy and promoting their welfare generally go hand in hand --- but if there were a conflict, we would try very hard to avoid any actions that seem seriously wrong from one of these other common-sense perspectives.
+>
+> So we need to compare the value of increasing the number of people with positive wellbeing with benefiting those who already exist. This question is studied by the field of 'population ethics' and is an especially new and unsettled area of philosophy.
 
 # Dissecting the WHO
 
@@ -190,7 +258,7 @@ We will see that this is not quite sufficient when talking about the second of t
 ## *Fixing* cimate change: The technologies
 
 -   Carbon Capture and Storage (CCS)
--   Air Source Heat Pumps
+-   Solar Radiation Management
 -   Clean Hydrogen
 -   Carbon offsets
 
