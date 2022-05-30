@@ -108,81 +108,11 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 -   If we do this, we can seriously shape what people *are*.
 :::
 
-## https://80000hours.org: Choice of career is just another optimization problem.
-
-> You have about 80,000 hours in your career: 40 hours per week, 50 weeks per year, for 40 years. \[...\]\[...\], we now think the impact you can have in different career paths --- however exactly you define 'impact' --- is driven by four main factors:
->
-> 1.  How **pressing the problems** you focus on are
->
-> 2.  How **effective the solutions** you pursue are
->
-> 3.  The amount of **leverage** you can apply to those solutions
->
-> 4.  Your **personal fit** for the path
-
-![](80000hours.png)
-
-## How pressing the problems you focus on are: Top risk
-
-> The annual risk of an all-out nuclear exchange is small, but it's not zero: \[...\] The average of several expert surveys is an annual probability of 0.4%. Compounded over our lives and the lives of our children, this adds up to a substantial chance of a catastrophe potentially more devastating than climate change.
-
-## How pressing the problems you focus on are: "Highest priority areas"
-
-> -   Positively shaping the development of artificial intelligence
->
-> <!-- -->
->
-> -   Global priorities research
->
-> -   Building effective altruism
->
-> -   Reducing global catastrophic biological risks
->
-> -   \[could be:\]: Mitigating great power conflict
->
-> -   \[could be:\]: Global governance
->
-> -   \[could be:\]: Space governance
-
-## How pressing the problems you focus on are: "Highest priority areas"
-
-> ### Second-highest priority areas
->
-> -   Nuclear security
->
-> <!-- -->
->
-> -   Improving institutional decision-making
->
-> -   Climate change (extreme risks)
-
-## How pressing the problems you focus on are: "Less pressing"
-
-> We'd love to see more people working on these issues, but given our general worldview they seem less pressing than our priority problems:
->
-> -   Factory farming
->
-> -   Global health
-
-## Time to look at those values: "Long-termism"
-
-> This means that if you want to make the world better in an *impartial* way --- i.e. without regard to people's race, class, or where or *when* they're born --- then what most matters morally is that the future goes as well as it can for all generations to come. We've called this the 'long-term value thesis.'
->
-> If it turned out that the best way to help those in the future is to improve the lives of people in the present, such as through providing health and education, then longtermists would focus on that. The difference is that the biggest *reason* to help those in the present would be to improve the long term.
-
-## Time to look at those values: "Social impact"
-
-![](social_impact.png)
-
-> "Social impact" or "making a difference" is (tentatively) about promoting total expected wellbeing --- considered impartially, over the long term --- without sacrificing anything that might be of comparable moral importance.
-
-> Thus we think it's important to respect other values as well --- e.g. autonomy and fairness. We find that this rarely comes up --- respecting people's autonomy and promoting their welfare generally go hand in hand --- but if there were a conflict, we would try very hard to avoid any actions that seem seriously wrong from one of these other common-sense perspectives.
->
-> So we need to compare the value of increasing the number of people with positive wellbeing with benefiting those who already exist. This question is studied by the field of 'population ethics' and is an especially new and unsettled area of philosophy.
+## 
 
 # Dissecting the WHO
 
-# WHO is about what exactly ...?
+# Questions to ask
 
 ::: notes
 -   Who designs, implements, and hosts the "solution"?
@@ -191,116 +121,106 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 -   Who is accountable?
 :::
 
-## So *who is* WHO?
+# An example of where it matters: education technology (edtech)
 
-Basic assumption:
-
-**Agents can be located on a dimension of democratic "electedness"/"justifiedness", with the ideal democracy on one side and privately-managed institutions (corporations, foundations, NGOs) on the other.**
-
-::: notes
-We will see that this is not quite sufficient when talking about the second of two areas of application.
-:::
-
-# Two examples (of many) where the WHO matters: education & climate change
-
-# Education technology: What is said
+# Edtech: What is said
 
 ::: notes
 -   With \[adaptive technology x\], each learner's individual needs are met.
 
--   Thanks to \[x\], pressure on teachers diminishes.
+-   Thanks to \[x\], teachers have time to focus on what they do best.
 :::
 
-# Education technology: What is *not* said
+# Edtech: What is *not* said -- modus operandi
 
 ::: notes
--   We restrict teachers' options to shape their work.
 -   We record, process and store a lot of \[extremely\] personal data.
 -   You learn; *we're learning* from you.
--   We define *what* is learned.
+:::
+
+# Edtech: What is *not* said -- market domination
+
+::: notes
+-   Once we have "gotten in", network effects will make it very hard on eventual competitors.
+-   Once we have "gotten in", anyone who wants a share has to conform to our API.
+:::
+
+# Edtech: What is *not* said -- shaping society
+
+::: notes
 -   We define *how* people learn.
--   We define what is conveyed *between the lines*.
+-   We define *what* is learned.
+-   We define what *deserves* to be learnt.
+-   We define what *needs* to be forgotten.
 :::
 
-# Education technology: Why public, not private?
-
-# (1) Business models
+# Edtech: What is *not* said -- past, present, future
 
 ::: notes
--   Democratic institutions do not need to extract private data to make money.
-
--   Democratic institutions don't need to feed back fresh data into their large deep learning models.
+-   We define the past.
+-   We define the present.
+-   We define the future.
 :::
 
-# (2) Political and legal aspects
+# Edtech: So how exactly is this about the WHO?
 
 ::: notes
--   Democratic institutions can be held to to ensure transparency.
--   Democratic institutions can be held *accountable*.
--   Democratic institutions can be held to to ensure that errors are fixed.
+We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it; who is accountable.
 :::
 
-# (3) Human rights and values
+Imagine a scenario where we have a continuous dimension, with ends labeled public and private, where organizations/institutions can be located anywhere and that is understood about like this:
+
+|                 | public \[institution\]                                     | private \[organization\]     |
+|-----------------|----------------------------|----------------------------|
+| examples        | \[real\] democracy                                         | corporation, foundation, NGO |
+| characteristics | democratic election process, transparency, accountability, |                              |
+| values          | fairness, justice, human rights                            | depends on org in question   |
+| caveat!         | It is not enough to think on a local ("state") level.      |                              |
+
+Then how would the issues brought up be affected by who's the WHO?
+
+# Difference no. 1: Business models
 
 ::: notes
--   Democratic institutions can be held to respect human rights.
+-   Public institutions do not need to extract private data to make money.
 
--   Democratic institutions can be held to prioritize values over feasibility.
-
--   Democratic institutions can be held to support -- not eliminate -- people's individuality.
-
--   Democratic institutions can be held to minimize social-credit mechanisms operating through technology use.
+-   Public institutions don't need to feed back fresh data into their large deep learning models.
 :::
 
-## *Fixing* cimate change: The technologies
-
--   Carbon Capture and Storage (CCS)
--   Solar Radiation Management
--   Clean Hydrogen
--   Carbon offsets
+# Difference no. 2: Political and legal aspects
 
 ::: notes
--   Carbon offsets: evicting people from their lands, local food crises,
+-   Public institutions can be held to to ensure transparency.
+-   Public institutions can be held *accountable*.
+-   Public institutions can be held to to ensure that errors are fixed.
 :::
 
-# *Fixing* climate change: What it says and what it means
-
--   "net zero"
--   "resilience", "adaptation", "mitigation"
-
-## Revisiting the *who* is WHO?
-
--   With topics like climate change, it is not enough to insist on *locally-elected* democratic institutions.
-
-# *Fixing* climate change: The seduction
+# Difference no. 3: Human rights and values
 
 ::: notes
--   If we apply fix \[x\], we don't have to change our lifestyles.
--   If we apply fix \[x\], we don't have to change society.
--   If we apply fix \[x\], we don't have to give up our privileges.
+-   Public institutions can be held to respect human rights.
+
+-   Public institutions can be held to prioritize values over feasibility.
+
+-   Public institutions can be held to support -- not eliminate -- people's individuality.
+
+-   Public institutions can be held to minimize social-credit mechanisms operating through technology use.
 :::
 
-# *Fixing* climate change: Why public, not private?
+## 
+
+## Now this may sound like it doesn't concern me
 
 ::: notes
--   Democratic institutions can be held to not favor strategies that result in monetary gain (example: carbon credits)
--   Democratic institutions can be expected not to take the action in question to further their influence, strengthen their power, and promote their conceptions of how the world ought to be.
--   Democratic institutions can be held to favor actions that *promote social justice*.
--   Democratic institutions can be expected not to have a need for *greenwashing*.
--   Democratic institutions can be expected not to act under the incentive of extracting data and powering their AIs.
--   Democratic institutions can be expected not to use climate concerns as a business opportunity likely to attract large amounts of venture capital.
--   Democratic institutions can be held to implement non-individualistic solutions. **Viljoen: Individualistic solutions (whether human rights-based or neoliberal) do not address the problem of horizontal data relations, and therefore fail to act in the direction of justice.**
-
-### 
+more abstract than the WHY, harder to influence
 :::
 
-## WHYs I would like
+-   But we all make choices (where we work, how we vote, whether we engage politically...)
+-   We may feel we have little agency; but perhaps we can think about how much there is or could be
+-   At the very least, we can try to think, reflect, analyze.
 
--   I can't sleep because of this
--   We have a responsibility
--   We have no right to ...
--   This is so *unjust*
+## Dare to think
 
-## WHOs I would like
+Enlightenment is man's release from his ~~self-incurred~~ tutelage.
 
-Democratic institutions, pursuing the goal of global social justice.
+## 
