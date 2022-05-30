@@ -130,9 +130,8 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 
 > -   Positively shaping the development of artificial intelligence
 >
-> ```{=html}
 > <!-- -->
-> ```
+>
 > -   Global priorities research
 >
 > -   Building effective altruism
@@ -151,9 +150,8 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 >
 > -   Nuclear security
 >
-> ```{=html}
 > <!-- -->
-> ```
+>
 > -   Improving institutional decision-making
 >
 > -   Climate change (extreme risks)
@@ -178,8 +176,7 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 
 > "Social impact" or "making a difference" is (tentatively) about promoting total expected wellbeing --- considered impartially, over the long term --- without sacrificing anything that might be of comparable moral importance.
 
-> Thus we think it's important to respect other values as well --- e.g. autonomy and fairness. We find that this rarely
-> comes up --- respecting people's autonomy and promoting their welfare generally go hand in hand --- but if there were a conflict, we would try very hard to avoid any actions that seem seriously wrong from one of these other common-sense perspectives.
+> Thus we think it's important to respect other values as well --- e.g. autonomy and fairness. We find that this rarely comes up --- respecting people's autonomy and promoting their welfare generally go hand in hand --- but if there were a conflict, we would try very hard to avoid any actions that seem seriously wrong from one of these other common-sense perspectives.
 >
 > So we need to compare the value of increasing the number of people with positive wellbeing with benefiting those who already exist. This question is studied by the field of 'population ethics' and is an especially new and unsettled area of philosophy.
 
