@@ -171,7 +171,7 @@ We said that the WHO was about who designs, implements, and hosts the solution; 
 Imagine a scenario where we have a continuous dimension, with ends labeled public and private, where organizations/institutions can be located anywhere and that is understood about like this:
 
 |                 | public \[institution\]                                     | private \[organization\]     |
-|-----------------|----------------------------|----------------------------|
+|----------------|-------------------------------------|------------------|
 | examples        | \[real\] democracy                                         | corporation, foundation, NGO |
 | characteristics | democratic election process, transparency, accountability, |                              |
 | values          | fairness, justice, human rights                            | depends on org in question   |
@@ -207,8 +207,6 @@ Then how would the issues brought up be affected by who's the WHO?
 -   Public institutions can be held to minimize social-credit mechanisms operating through technology use.
 :::
 
-## 
-
 ## Now this may sound like it doesn't concern me
 
 ::: notes
@@ -217,8 +215,27 @@ more abstract than the WHY, harder to influence
 
 -   But we all make choices (where we work, how we vote, whether we engage politically...)
 -   We may feel we have little agency; but perhaps we can think about how much there is or could be
--   At the very least, we can try to think, doubt, question.
-
-## TBD
+-   At the very least, we can try to doubt, question, be open to surprising ideas
 
 ## 
+
+## An example: Escaping the data dichotomy (Viljoen)
+
+-   Data as person-like: Inalienable right over one's data
+-   Data as property-like: Compensation
+
+Both views neglect that my data also provide information about *you*.
+
+(horizontal data relations)
+
+::: notes
+e.g.: genetic data, profiling
+:::
+
+## Data work could be different
+
+Data can be used to make social relations more egalitarian, more just.
+
+Take the perspective of those affected
+
+"There is no escape in Luddism. "
