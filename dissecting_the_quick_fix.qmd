@@ -10,15 +10,17 @@ editor: visual
 > The tendency to use technology to solve any (organizational, societal, environmental, ...) problem.
 
 ::: notes
-Often defined as "the belief that technology can be used to solve any problem". Want to allow for a range of views instead.
+Often defined as "the belief that technology can be used to solve any problem". I think this is unnecessarily generalizing. Doesn't have to be *any* problem; enough to see it in action at the problem at hand.
+:::
 
-Commonly linked to Evgenij Morozov's *From Save Everything, Click Here: The Folly of Technological Solutionism* (2013).
+![](morozov.png){fig-align="center"}
 
-------------------------------------------------------------------------
+::: notes
+Commonly linked to Evgenij Morozov's *From Save Everything, Click Here: The Folly of Technological Solutionism* (2013). But did exist before, under various names; and the thing itself must be (at least) as old as humanity itself.
+:::
 
+::: notes
 Now, it would be easy to show disgusting examples, examples like the one given by Sean Johnston in his 2020 book *Techno-Fixers*, about using air conditioning to turn down the likelihood of race riots.
-
-------------------------------------------------------------------------
 
 But if we rely on (shared) disgust and outrage only ...
 
@@ -26,43 +28,56 @@ But if we rely on (shared) disgust and outrage only ...
 -   we won't be able to convince others
 :::
 
-# Let's see what's so seductive about it
+## Let's instead see what's so seductive about it
 
 ::: notes
 -   It *solves* a problem. (A tautology, but an important one.)
--   It solves a *problem*. (Shifting focus, ...)
--   It solves a *hard* *problem*. (Why else would we care.)
+-   It solves a *problem*. (It matters.)
+-   It solves a *hard* problem. (Why else would we care.)
 -   It solves a *problem* we don't really know how to solve otherwise. (And there are many of them.)
 -   It solves a *problem* whose other solutions would involve *sacrifices*. (That's the last thing we want.)
 -   It solves a problem we're terribly *scared* about.
 :::
 
-# We need to be more clear about how we assess "solutions"
+. . .
+
+<br /> <br /> <br />
+
+It solves a problem we're terribly *scared* about.
+
+## We need to be more clear about how we assess "solutions"
 
 ::: notes
 We would like
 
--   A framework to analyze a "solution" along explicit, communicable, and weighteable dimensions.
--   Essential point: An analysis may NOT be restricted to the purely technical.
--   Suggestion: For maximum openness and generality, follow the **W**-questions (plus **how**).
+-   A framework to analyze a "solution" along explicitly stated, communicable, and weightable dimensions.
+-   BUT: An analysis may NOT be restricted to the purely technical.
+-   Suggestion: For maximum openness and generality, follow the **W**-questions (what, where, when, who, why - plus how).
 -   To counter-balance the usual type of discourse, we'll want to re-distribute focus from the WHAT to the *WHO* and *WHY*.
 :::
 
-# Not just WHAT - and WHERE and WHEN and HOW - but WHO and WHY
+. . .
+
+<br /> <br /> <br />
+
+Commonly, the focus is on the what (and maybe the where and the when, and even the how).
+
+I would like to focus on the neglected [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}.
+
+# Not "just" [*what*]{style="color: #645394;"} (and [*where*]{style="color: #645394;"} and [*when*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}) but [*why*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}
 
 ::: notes
 Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
-
 -   *What* does the "solution" do? I.e. the complete technical workflow, starting from what datasets were used, how a model was trained, up to and including how it was evaluated.
-
 -   *Where*, *when*, and *to whom* will the "solution" be applied? I.e. the complete (geographical, social, political) context.
-
 -   How exactly will the solution be applied? Details matter.
-:::
 
-# Dissecting the WHY
 
-# WHY: What is said
+
+
+# Dissecting the [*why*]{style="color: #645394;"}
+
+## [*Why*]{style="color: #645394;"}: What'll you hear
 
 ::: notes
 -   We want to help.
@@ -70,82 +85,132 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 -   We're here for you.
 :::
 
-# WHY: What is *not* said - individual reasons
+. . .
+
+<br /> <br /> <br />
+
+We're here for you.
+
+
+## [*Why*]{style="color: #645394;"}: What you *won't* hear - individual reasons
 
 ::: notes
 -   This will look good on my resume.
--   This might just get me a job at \[company x\].
+-   This just might get me a job at \[company x\].
 -   This is something one could launch a startup for.
 -   This is a great reason to learn/use technology \[insert currently-hyped technology here\].
 -   It's just so cool that this *can even be done*.
 :::
 
-# WHY: What is *not* said - organizational reasons
+. . .
+
+<br /> <br /> <br />
+
+It can be done!
+
+## [*Why*]{style="color: #645394;"}: What you *won't* hear - organizational reasons
 
 ::: notes
--   If we do this, we'll score high on the *Benefactors of Humanity* list.
-
--   If we do this, we counteract the negative image recently created by \[insert here\].
 
 -   If we do this, we'll be strengthening our existing \[but always threatened\] monopoly.
+-   If we do this, we distract from \[that unfortunate thing that went through the news\].
+-   If we do this, we'll score high on the *Benefactors of Humanity* list.
+
 :::
 
-# WHY: What is *not* said - useful side effects
+. . .
+
+<br /> <br /> <br />
+
+We're the good guys.
+
+## [*Why*]{style="color: #645394;"}: What you won't hear - side effects
 
 ::: notes
 -   If we implement this, we'll be able to harvest valuable data \[to be used in targeted advertising\].
 -   If we implement this, we'll be able to harvest valuable data \[to be used to train our neural networks\].
--   If we do this, we'll have a foot in the door to \[build a yet more useful thing\].
+-   If we do this, we'll have a foot in the door to \[build a yet more impactful thing\].
 :::
 
-# WHY: What is *not* said - power
+. . .
+
+<br /> <br /> <br />
+
+This will make us tenfold as strong.
+
+
+## [*Why*]{style="color: #645394;"}: What you *won't* hear - power
 
 ::: notes
--   If we do this, \[government x, public org y, ...\] will not be able to get rid of us.
+-   If we do this, the government will not be able to get along without us.
 -   If we do this, we can seriously shape how people live.
 -   If we do this, we can seriously shape how people think.
 -   If we do this, we can seriously shape how people feel.
 -   If we do this, we can seriously shape what people *are*.
 :::
 
-## 
+. . .
 
-# Dissecting the WHO
+<br /> <br /> <br />
 
-# Questions to ask
+We define what it means to be human.
+
+
+# Dissecting the [*who*]{style="color: #645394;"}
+
+## [*Who*]{style="color: #645394;"} is *who*?
 
 ::: notes
--   Who designs, implements, and hosts the "solution"?
--   Who processes its data?
--   Who knows how it works?
--   Who is accountable?
+Who is ambiguous and could mean many things. I'm using it in a specific sense.
 :::
 
-# An example of where it matters: education technology (edtech)
+-   Who designs, implements, and hosts the "solution"?
+-   Who processes its data?
+-   Who knows how it works, and can fix problems?
 
-# Edtech: What is said
+<br />
+
+This is not synonymous with: *Who is accountable when things go wrong.*
+
+::: notes
+Let's investigate this by example: Education technology (a.k.a. edtech)
+:::
+
+## Edtech: What'll you hear
 
 ::: notes
 -   With \[adaptive technology x\], each learner's individual needs are met.
-
 -   Thanks to \[x\], teachers have time to focus on what they do best.
 :::
 
-# Edtech: What is *not* said -- modus operandi
+## Edtech: What you *won't* hear -- how it works
 
 ::: notes
--   We record, process and store a lot of \[extremely\] personal data.
--   You learn; *we're learning* from you.
+-  We record, process and store a lot of \[extremely\] personal data.
+-  We constantly track and analyze your behavior.
+-  You learn; *we're learning* from you.
 :::
 
-# Edtech: What is *not* said -- market domination
+. . .
+
+<br /> <br /> <br />
+
+You learn; *we're learning* from you.
+
+## Edtech: What you *won't* hear -- market domination
 
 ::: notes
--   Once we have "gotten in", network effects will make it very hard on eventual competitors.
--   Once we have "gotten in", anyone who wants a share has to conform to our API.
+-   Once we have "gotten in", network effects will make it things very hard for hypothetical competitors.
+-   Once we have "gotten in", anyone who wants a share has to play according to our rules.
 :::
 
-# Edtech: What is *not* said -- shaping society
+. . .
+
+<br /> <br /> <br />
+
+If you want in, follow our rules.
+
+## Edtech: What you *won't* hear -- shaping society
 
 ::: notes
 -   We define *how* people learn.
@@ -154,15 +219,22 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 -   We define what *needs* to be forgotten.
 :::
 
-# Edtech: What is *not* said -- past, present, future
+We define what's worth learning.
+
+# Edtech: What you *won't* hear -- humanity
 
 ::: notes
 -   We define the past.
 -   We define the present.
 -   We define the future.
 :::
+. . .
 
-# Edtech: So how exactly is this about the WHO?
+<br /> <br /> <br />
+We define the future.
+
+
+## So ... how exactly is this about the [*who*]{style="color: #645394;"}?
 
 ::: notes
 We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it; who is accountable.
@@ -171,7 +243,7 @@ We said that the WHO was about who designs, implements, and hosts the solution; 
 Imagine a scenario where we have a continuous dimension, with ends labeled public and private, where organizations/institutions can be located anywhere and that is understood about like this:
 
 |                 | public \[institution\]                                     | private \[organization\]     |
-|----------------|-------------------------------------|------------------|
+|------------------|------------------------------------|------------------|
 | examples        | \[real\] democracy                                         | corporation, foundation, NGO |
 | characteristics | democratic election process, transparency, accountability, |                              |
 | values          | fairness, justice, human rights                            | depends on org in question   |
@@ -217,7 +289,7 @@ more abstract than the WHY, harder to influence
 -   We may feel we have little agency; but perhaps we can think about how much there is or could be
 -   At the very least, we can try to doubt, question, be open to surprising ideas
 
-## 
+##
 
 ## An example: Escaping the data dichotomy (Viljoen)
 
