@@ -43,7 +43,9 @@ But if we rely on (shared) disgust and outrage only ...
 
 <br /> <br /> <br />
 
-It solves a problem we're terribly *scared* about.
+::: {style="text-align: center;"}
+It solves a problem we're terribly scared about.
+:::
 
 ## We need to be more clear about how we assess "solutions"
 
@@ -60,20 +62,19 @@ We would like
 
 <br /> <br /> <br />
 
-Commonly, the focus is on the what (and maybe the where and the when, and even the how).
+Commonly, the focus is on the *what* (and maybe, the *where* and the *when*, and sometimes, even the *how*).
 
 I would like to focus on the neglected [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}.
 
-# Not "just" [*what*]{style="color: #645394;"} (and [*where*]{style="color: #645394;"} and [*when*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}) but [*why*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}
+# Not "just" [*what*]{style="color: #645394;"} (and [*where*]{style="color: #645394;"} and [*when*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}): But [*why*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}
 
 ::: notes
 Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
+
 -   *What* does the "solution" do? I.e. the complete technical workflow, starting from what datasets were used, how a model was trained, up to and including how it was evaluated.
 -   *Where*, *when*, and *to whom* will the "solution" be applied? I.e. the complete (geographical, social, political) context.
--   How exactly will the solution be applied? Details matter.
-
-
-
+-   *How* exactly will the solution be applied? Details matter.
+:::
 
 # Dissecting the [*why*]{style="color: #645394;"}
 
@@ -89,8 +90,9 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 
 <br /> <br /> <br />
 
+::: {style="text-align: center;"}
 We're here for you.
-
+:::
 
 ## [*Why*]{style="color: #645394;"}: What you *won't* hear - individual reasons
 
@@ -106,38 +108,41 @@ We're here for you.
 
 <br /> <br /> <br />
 
-It can be done!
+::: {style="text-align: center;"}
+It's just *so* cool that this can even be done.
+:::
 
 ## [*Why*]{style="color: #645394;"}: What you *won't* hear - organizational reasons
 
 ::: notes
-
 -   If we do this, we'll be strengthening our existing \[but always threatened\] monopoly.
 -   If we do this, we distract from \[that unfortunate thing that went through the news\].
 -   If we do this, we'll score high on the *Benefactors of Humanity* list.
-
 :::
 
 . . .
 
 <br /> <br /> <br />
 
+::: {style="text-align: center;"}
 We're the good guys.
+:::
 
 ## [*Why*]{style="color: #645394;"}: What you won't hear - side effects
 
 ::: notes
 -   If we implement this, we'll be able to harvest valuable data \[to be used in targeted advertising\].
 -   If we implement this, we'll be able to harvest valuable data \[to be used to train our neural networks\].
--   If we do this, we'll have a foot in the door to \[build a yet more impactful thing\].
+-   If we do this, we'll have a foot in the door to \[build that yet more impactful thing\].
 :::
 
 . . .
 
 <br /> <br /> <br />
 
+::: {style="text-align: center;"}
 This will make us tenfold as strong.
-
+:::
 
 ## [*Why*]{style="color: #645394;"}: What you *won't* hear - power
 
@@ -146,19 +151,22 @@ This will make us tenfold as strong.
 -   If we do this, we can seriously shape how people live.
 -   If we do this, we can seriously shape how people think.
 -   If we do this, we can seriously shape how people feel.
--   If we do this, we can seriously shape what people *are*.
+-   If we do this, we can seriously shape who people *are*.
 :::
 
 . . .
 
 <br /> <br /> <br />
 
+::: {style="text-align: center;"}
 We define what it means to be human.
-
+:::
 
 # Dissecting the [*who*]{style="color: #645394;"}
 
-## [*Who*]{style="color: #645394;"} is *who*?
+## [Who]{style="color: #645394;"} is *who*?
+
+<br />
 
 ::: notes
 Who is ambiguous and could mean many things. I'm using it in a specific sense.
@@ -183,19 +191,29 @@ Let's investigate this by example: Education technology (a.k.a. edtech)
 -   Thanks to \[x\], teachers have time to focus on what they do best.
 :::
 
+. . .
+
+<br /> <br /> <br />
+
+::: {style="text-align: center;"}
+We make your lives easier.
+:::
+
 ## Edtech: What you *won't* hear -- how it works
 
 ::: notes
--  We record, process and store a lot of \[extremely\] personal data.
--  We constantly track and analyze your behavior.
--  You learn; *we're learning* from you.
+-   We record, process and store a lot of \[extremely\] personal data.
+-   We constantly track and analyze your behavior.
+-   You learn; *we're learning* from you.
 :::
 
 . . .
 
 <br /> <br /> <br />
 
-You learn; *we're learning* from you.
+::: {style="text-align: center;"}
+You learn; *we're learning from you.*
+:::
 
 ## Edtech: What you *won't* hear -- market domination
 
@@ -208,7 +226,9 @@ You learn; *we're learning* from you.
 
 <br /> <br /> <br />
 
-If you want in, follow our rules.
+::: {style="text-align: center;"}
+Want in? Follow our rules.
+:::
 
 ## Edtech: What you *won't* hear -- shaping society
 
@@ -219,55 +239,89 @@ If you want in, follow our rules.
 -   We define what *needs* to be forgotten.
 :::
 
-We define what's worth learning.
+<br /> <br /> <br />
 
-# Edtech: What you *won't* hear -- humanity
+::: {style="text-align: center;"}
+We define what's worth learning.
+:::
+
+## Edtech: What you *won't* hear -- humanity
 
 ::: notes
 -   We define the past.
 -   We define the present.
 -   We define the future.
 :::
+
 . . .
 
 <br /> <br /> <br />
+
+::: {style="text-align: center;"}
 We define the future.
+:::
 
-
-## So ... how exactly is this about the [*who*]{style="color: #645394;"}?
+# Can you say again how this is about the [*who*]{style="color: #645394;"}?
 
 ::: notes
 We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it; who is accountable.
 :::
 
-Imagine a scenario where we have a continuous dimension, with ends labeled public and private, where organizations/institutions can be located anywhere and that is understood about like this:
+## Imagine a (continuous) dimension, labeled *public \<-\> private*
 
-|                 | public \[institution\]                                     | private \[organization\]     |
-|------------------|------------------------------------|------------------|
-| examples        | \[real\] democracy                                         | corporation, foundation, NGO |
-| characteristics | democratic election process, transparency, accountability, |                              |
-| values          | fairness, justice, human rights                            | depends on org in question   |
-| caveat!         | It is not enough to think on a local ("state") level.      |                              |
++-------------+-----------------------------------------------------------------+--------------------------------------------------+
+|             | PUBLIC                                                          | PRIVATE                                          |
++=============+=================================================================+==================================================+
+| | Examples  | (true) democracy                                                | corporation, foundation, NGO, ...                |
++-------------+-----------------------------------------------------------------+--------------------------------------------------+
+| | Features  | democratic decision process, participation, supra-locality, ... | lack of the ones to the left; otherwise, varying |
++-------------+-----------------------------------------------------------------+--------------------------------------------------+
+| | Values    | fairness, justice, human rights, accountability, ...            | dependent on political agenda                    |
++-------------+-----------------------------------------------------------------+--------------------------------------------------+
 
-Then how would the issues brought up be affected by who's the WHO?
+::: notes
+Then what difference would it make who's the who?
+:::
 
-# Difference no. 1: Business models
+## Difference no. 1: Business models
 
 ::: notes
 -   Public institutions do not need to extract private data to make money.
 
--   Public institutions don't need to feed back fresh data into their large deep learning models.
+-   Public institutions do not need to feed back fresh data into their large deep learning models.
+
+-   Public institutions do not need to worry about their competitors.
 :::
 
-# Difference no. 2: Political and legal aspects
+. . .
+
+<br /> <br /> <br />
+
+::: {style="text-align: center;"}
+
+It wouldn't have to be about *business*.
+
+:::
+
+## Difference no. 2: Political and legal aspects
 
 ::: notes
 -   Public institutions can be held to to ensure transparency.
--   Public institutions can be held *accountable*.
 -   Public institutions can be held to to ensure that errors are fixed.
+-   Public institutions can be held *accountable*.
 :::
 
-# Difference no. 3: Human rights and values
+. . .
+
+<br /> <br /> <br />
+
+::: {style="text-align: center;"}
+
+Accountability is possible.
+
+:::
+
+## Difference no. 3: Human rights and values
 
 ::: notes
 -   Public institutions can be held to respect human rights.
@@ -276,38 +330,52 @@ Then how would the issues brought up be affected by who's the WHO?
 
 -   Public institutions can be held to support -- not eliminate -- people's individuality.
 
--   Public institutions can be held to minimize social-credit mechanisms operating through technology use.
+-   Public institutions can be held to minimize, not enforce, social-credit mechanisms.
 :::
 
-## Now this may sound like it doesn't concern me
+. . .
+
+<br /> <br /> <br />
+
+::: {style="text-align: center;"}
+
+The *subject* is still an option.
+
+:::
+
+## Yes but. How does this concern *me*? 
 
 ::: notes
-more abstract than the WHY, harder to influence
-:::
+I'm neither a state nor a CEO. How can I influence any of that?
 
 -   But we all make choices (where we work, how we vote, whether we engage politically...)
 -   We may feel we have little agency; but perhaps we can think about how much there is or could be
 -   At the very least, we can try to doubt, question, be open to surprising ideas
+:::
 
-##
+. . .
 
-## An example: Escaping the data dichotomy (Viljoen)
+<br /> <br /> <br />
 
--   Data as person-like: Inalienable right over one's data
--   Data as property-like: Compensation
+::: {style="text-align: center;"}
 
-Both views neglect that my data also provide information about *you*.
+Maybe we can start by being open to new ideas (that transcend the dichotomies).
 
-(horizontal data relations)
+:::
+
+## A third way of thinking about data (Salome Viljoen)
+
+-   Data as person-like: I have an inalienable right over my data.
+-   Data as property-like: I need to get compensated for my data.
+
+Both views neglect that *my* data also provide information about *you*.
 
 ::: notes
-e.g.: genetic data, profiling
+She calls this horizontal data relations.
+
+e.g.: genetic data, profiling and minority groups, ...
 :::
 
 ## Data work could be different
 
 Data can be used to make social relations more egalitarian, more just.
-
-Take the perspective of those affected
-
-"There is no escape in Luddism. "
