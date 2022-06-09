@@ -7,22 +7,34 @@ editor: visual
 
 ## Tech solutionism
 
-> The tendency to use technology to solve any (organizational, societal, environmental, ...) problem.
+</br /></br /></br /></br />
+
+> The tendency to use technology to solve a societal (political, organizational, environmental ...) problem.
 
 ::: notes
-Often defined as "the belief that technology can be used to solve any problem". I think this is unnecessarily generalizing. Doesn't have to be *any* problem; enough to see it in action at the problem at hand.
+Often defined as "the belief that technology can be used to solve any problem". Doesn't have to be put in so strong a way, though.
+
+Let me give just one example to make clear what this is about.
 :::
 
-![](morozov.png){fig-align="center"}
+## "Axon Announces TASER Drone Development to Address Mass Shootings" (Press Release, 06/02/22)
+
+. . .
+
+</br /></br />
+
+> But the Taser drone is "completely independent" of gun control, Smith told me. I don't think legislators should say 'Axon will fix this.' ... I don't want us to be an excuse for inaction."
+
+[(https://slate.com/technology/2022/06/axon-taser-drone-mass-shootings-rick-smith.html)]{style="font-size:60%;"}
 
 ::: notes
-Commonly linked to Evgenij Morozov's *From Save Everything, Click Here: The Folly of Technological Solutionism* (2013). But did exist before, under various names; and the thing itself must be (at least) as old as humanity itself.
+So you see, there is no need to claim this is a complete solution. What matters, in cases like this, is that your product / idea just wonderfully fits the situation.
 :::
 
 ::: notes
-Now, it would be easy to show disgusting examples, examples like the one given by Sean Johnston in his 2020 book *Techno-Fixers*, about using air conditioning to turn down the likelihood of race riots.
+Now, it would be easy to go on bringing other examples like this, disgusting examples, infuriating examples ... But there is not much use to this.
 
-But if we rely on (shared) disgust and outrage only ...
+If we rely on (shared) disgust and outrage only ...
 
 -   we won't be able to spot less aversive cases
 -   we won't be able to convince others
@@ -60,9 +72,11 @@ We would like
 
 . . .
 
-<br /> <br /> <br />
+<br /> <br />
 
-Commonly, the focus is on the *what* (and maybe, the *where* and the *when*, and sometimes, even the *how*).
+Commonly, the focus is on the *what;* and maybe, the *where* and the *when*. (Sometimes, even the *how*).
+
+<br />
 
 I would like to focus on the neglected [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}.
 
@@ -269,15 +283,15 @@ We said that the WHO was about who designs, implements, and hosts the solution; 
 
 ## Imagine a (continuous) dimension, labeled *public \<-\> private*
 
-+-------------+-----------------------------------------------------------------+--------------------------------------------------+
-|             | PUBLIC                                                          | PRIVATE                                          |
-+=============+=================================================================+==================================================+
-| | Examples  | (true) democracy                                                | corporation, foundation, NGO, ...                |
-+-------------+-----------------------------------------------------------------+--------------------------------------------------+
-| | Features  | democratic decision process, participation, supra-locality, ... | lack of the ones to the left; otherwise, varying |
-+-------------+-----------------------------------------------------------------+--------------------------------------------------+
-| | Values    | fairness, justice, human rights, accountability, ...            | dependent on political agenda                    |
-+-------------+-----------------------------------------------------------------+--------------------------------------------------+
++-------------+------------------------------------------------------------+--------------------------------------------------+
+|             | PUBLIC                                                     | PRIVATE                                          |
++=============+============================================================+==================================================+
+| | Examples  | (true) democracy                                           | corporation, foundation, NGO                     |
++-------------+------------------------------------------------------------+--------------------------------------------------+
+| | Features  | democratic decision process, participation, supra-locality | lack of the ones to the left; otherwise, varying |
++-------------+------------------------------------------------------------+--------------------------------------------------+
+| | Values    | fairness, justice, human rights, accountability            | dependent on political agenda                    |
++-------------+------------------------------------------------------------+--------------------------------------------------+
 
 ::: notes
 Then what difference would it make who's the who?
@@ -298,9 +312,7 @@ Then what difference would it make who's the who?
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-
 It wouldn't have to be about *business*.
-
 :::
 
 ## Difference no. 2: Political and legal aspects
@@ -316,9 +328,7 @@ It wouldn't have to be about *business*.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-
 Accountability is possible.
-
 :::
 
 ## Difference no. 3: Human rights and values
@@ -338,19 +348,18 @@ Accountability is possible.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-
 The *subject* is still an option.
-
 :::
 
-## Yes but. How does this concern *me*? 
+## Yes but. How does this concern *me*?
 
 ::: notes
 I'm neither a state nor a CEO. How can I influence any of that?
 
 -   But we all make choices (where we work, how we vote, whether we engage politically...)
--   We may feel we have little agency; but perhaps we can think about how much there is or could be
--   At the very least, we can try to doubt, question, be open to surprising ideas
+-   We may feel we have little agency; but perhaps there are options that are within what we can handle
+-   If nothing else, we can try to keep questioning the things we're told.
+-   And there is one thing we keep getting told, in various contexts and y various actors, over and over again.
 :::
 
 . . .
@@ -358,24 +367,42 @@ I'm neither a state nor a CEO. How can I influence any of that?
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-
-Maybe we can start by being open to new ideas (that transcend the dichotomies).
-
+Don't fall for the *blame-the-individual* strategy.
 :::
 
-## A third way of thinking about data (Salome Viljoen)
-
--   Data as person-like: I have an inalienable right over my data.
--   Data as property-like: I need to get compensated for my data.
-
-Both views neglect that *my* data also provide information about *you*.
+## A systemic view
 
 ::: notes
-She calls this horizontal data relations.
+Shifting responsibility to individuals has been, and is, the strategy of influential actors in various domains since (probably) forever. (Actors who want to keep the status quo.)
 
-e.g.: genetic data, profiling and minority groups, ...
+Take climate change: Cleaning up the woods, or buying fewer plastic-wrapped goods, or trying to reduce how much you heat your apartment ... all that's nice, and should be done, but does not compare in any way to the effects of global phenomena like, say, bitcoin.
 :::
 
-## Data work could be different
+. . .
 
-Data can be used to make social relations more egalitarian, more just.
+<br />
+
+> More broadly, the emphasis on design ignores the\
+> structural sources of technological harms. \[...\]
+
+<br />
+
+> To the extent that it defines ethical technology in terms of individual design decisions, tech ethics will divert scrutiny away from the economic and political factors that drive digital injustice, limiting our ability to address these forces.
+
+[(https://www.benzevgreen.com/wp-content/uploads/2022/02/21-jsc-intro.pdf)]{style="font-size: 60%;"}
+
+::: notes
+So maybe a first step is in our imagination: Imagine ...
+:::
+
+## Maybe data science could be different
+
+<br />
+
+What if ...
+
+<br />
+
+-   Data were used not to perpetuate, but [*change*]{style="color: #645394;"} the status quo?
+-   Data were used to make social relations more [*egalitarian*]{style="color: #645394;"}, more [*just*]{style="color: #645394;"}?
+-   Data were used to [*subvert*]{style="color: #645394;"} privileges, not [*reinforce*]{style="color: #645394;"} them?
