@@ -14,30 +14,65 @@ editor: visual
 ::: notes
 Often defined as "the belief that technology can be used to solve any problem". Doesn't have to be put in so strong a way, though.
 
-Let me give just one example to make clear what this is about.
+Let me give just three quick, non-fictitious examples to make clear what this is about.
 :::
 
-## "Axon Announces TASER Drone Development to Address Mass Shootings" (Press Release, 06/02/22)
+## Example: Suppressed population groups rising up
 
 . . .
 
-</br /></br />
+-   [*Problem*]{style="color: #645394;"}: Suppressed population groups (e.g., ethnic minorities) start to mobilise.
 
-> But the Taser drone is "completely independent" of gun control, Smith told me. I don't think legislators should say 'Axon will fix this.' ... I don't want us to be an excuse for inaction."
+. . .
 
-[(https://slate.com/technology/2022/06/axon-taser-drone-mass-shootings-rick-smith.html)]{style="font-size:60%;"}
+-   [*Observation*]{style="color: #645394;"}: This is more likely to happen / to become violent when it is hot -- very hot.
+
+. . .
+
+-   [*Solution*]{style="color: #645394;"}: Install climatization throughout.
+
+. . .
+
+-   [*Gain*]{style="color: #645394;"}: We don't have to actually address those groups' demands.
+
+## Example: Mass shootings
+
+. . .
+
+-   [*Problem*]{style="color: #645394;"}: Since 2014, the US has averaged more than one mass shooting a day.
+
+. . .
+
+-   [*Observation*]{style="color: #645394;"}: You can't always see if someone is carrying a gun.
+
+. . .
+
+-   [*Solution*]{style="color: #645394;"}: Install advanced surveillance technology.
+
+. . .
+
+-   [*Gain*]{style="color: #645394;"}: We don't have to change the laws related to gun ownership.
+
+## Example: Climate change
+
+. . .
+
+-   [*Problem*]{style="color: #645394;"}: Climate change is rendering parts of the Earth inhabitable, and significantly deteriorates living conditions in others.
+
+. . .
+
+-   [*Observation*]{style="color: #645394;"}: Time is passing, and we are less and less on track for keeping the situation under control.
+
+. . .
+
+-   [*Solution*]{style="color: #645394;"}: Move to Mars (or wherever, in space).
+
+. . .
+
+-   [*Gain*]{style="color: #645394;"}: \*We\* survive (and get to have "fun").
 
 ::: notes
-So you see, there is no need to claim this is a complete solution. What matters, in cases like this, is that your product / idea just wonderfully fits the situation.
-:::
-
-::: notes
-Now, it would be easy to go on bringing other examples like this, disgusting examples, infuriating examples ... But there is not much use to this.
-
-If we rely on (shared) disgust and outrage only ...
-
--   we won't be able to spot less aversive cases
--   we won't be able to convince others
+Now, with the last example, you're probably noticing we're getting close to a sarcastic, cynical way of talking about the topic. Indeed, it would be easy to go on bringing revolting, disgusting examples. But disgust really does not lead us anywhere. For example, moving to space evidently is absurd and injust; but what about other "tech fixes" proposed to handle climate change -- the various forms of so-called "geoengineering"? If we rely on (shared) disgust and outrage only ... - we won't be able to spot less aversive cases - we won't be able to convince others
 :::
 
 ## Let's instead see what's so seductive about it
@@ -62,6 +97,8 @@ It solves a problem we're terribly scared about.
 ## We need to be more clear about how we assess "solutions"
 
 ::: notes
+So, if we do see that solutionism can look attractive ... what can we do
+
 We would like
 
 -   A framework to analyze a "solution" along explicitly stated, communicable, and weightable dimensions.
@@ -74,13 +111,13 @@ We would like
 
 <br /> <br />
 
-Commonly, the focus is on the *what;* and maybe, the *where* and the *when*. (Sometimes, even the *how*).
+Commonly, the focus is on the *what* and maybe, the *where* and the *when*. (Sometimes, even the *how*).
 
 <br />
 
 I would like to focus on the neglected [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}.
 
-# Not "just" [*what*]{style="color: #645394;"} (and [*where*]{style="color: #645394;"} and [*when*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}): But [*why*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}
+# Not "just" [*what*]{style="color: #645394;"} (and [*where*]{style="color: #645394;"} and [*when*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}): But [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}
 
 ::: notes
 Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
@@ -131,7 +168,7 @@ It's just *so* cool that this can even be done.
 ::: notes
 -   If we do this, we'll be strengthening our existing \[but always threatened\] monopoly.
 -   If we do this, we distract from \[that unfortunate thing that went through the news\].
--   If we do this, we'll score high on the *Benefactors of Humanity* list.
+-   If we do this, everybody will see we're the good guys.
 :::
 
 . . .
@@ -148,6 +185,7 @@ We're the good guys.
 -   If we implement this, we'll be able to harvest valuable data \[to be used in targeted advertising\].
 -   If we implement this, we'll be able to harvest valuable data \[to be used to train our neural networks\].
 -   If we do this, we'll have a foot in the door to \[build that yet more impactful thing\].
+-   If we do this, public institutions will be seriously reliant on us.
 :::
 
 . . .
@@ -155,13 +193,12 @@ We're the good guys.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-This will make us tenfold as strong.
+Public institutions will be seriously reliant on us.
 :::
 
 ## [*Why*]{style="color: #645394;"}: What you *won't* hear - power
 
 ::: notes
--   If we do this, the government will not be able to get along without us.
 -   If we do this, we can seriously shape how people live.
 -   If we do this, we can seriously shape how people think.
 -   If we do this, we can seriously shape how people feel.
@@ -173,7 +210,7 @@ This will make us tenfold as strong.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-We define what it means to be human.
+If we do this, we can seriously shape who people *are*.
 :::
 
 # Dissecting the [*who*]{style="color: #645394;"}
@@ -192,8 +229,6 @@ Who is ambiguous and could mean many things. I'm using it in a specific sense.
 
 <br />
 
-This is not synonymous with: *Who is accountable when things go wrong.*
-
 ::: notes
 Let's investigate this by example: Education technology (a.k.a. edtech)
 :::
@@ -203,6 +238,7 @@ Let's investigate this by example: Education technology (a.k.a. edtech)
 ::: notes
 -   With \[adaptive technology x\], each learner's individual needs are met.
 -   Thanks to \[x\], teachers have time to focus on what they do best.
+-   With technology \[x\], we make learning more effective and efficient.
 :::
 
 . . .
@@ -210,7 +246,7 @@ Let's investigate this by example: Education technology (a.k.a. edtech)
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-We make your lives easier.
+We make learning more effective and efficient.
 :::
 
 ## Edtech: What you *won't* hear -- how it works
@@ -233,7 +269,7 @@ You learn; *we're learning from you.*
 
 ::: notes
 -   Once we have "gotten in", network effects will make it things very hard for hypothetical competitors.
--   Once we have "gotten in", anyone who wants a share has to play according to our rules.
+-   Once we have "gotten in", anyone who wants in has to follow our rules.
 :::
 
 . . .
@@ -250,21 +286,7 @@ Want in? Follow our rules.
 -   We define *how* people learn.
 -   We define *what* is learned.
 -   We define what *deserves* to be learnt.
--   We define what *needs* to be forgotten.
-:::
-
-<br /> <br /> <br />
-
-::: {style="text-align: center;"}
-We define what's worth learning.
-:::
-
-## Edtech: What you *won't* hear -- humanity
-
-::: notes
--   We define the past.
--   We define the present.
--   We define the future.
+-   We define what *deserves* to be forgotten.
 :::
 
 . . .
@@ -272,16 +294,33 @@ We define what's worth learning.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-We define the future.
+We define what deserves to be forgotten.
+:::
+
+## Edtech: What you *won't* hear -- the concept of humanity
+
+::: notes
+-   We define the past.
+-   We define the present.
+-   We define the future.
+-   We define what it means to be human.
+:::
+
+. . .
+
+<br /> <br /> <br />
+
+::: {style="text-align: center;"}
+We define what it means to be human.
 :::
 
 # Can you say again how this is about the [*who*]{style="color: #645394;"}?
 
 ::: notes
-We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it; who is accountable.
+We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it.
 :::
 
-## Imagine a (continuous) dimension, labeled *public \<-\> private*
+## Imagine a dimension, *public ... private*
 
 +-------------+------------------------------------------------------------+--------------------------------------------------+
 |             | PUBLIC                                                     | PRIVATE                                          |
@@ -304,7 +343,7 @@ Then what difference would it make who's the who?
 
 -   Public institutions do not need to feed back fresh data into their large deep learning models.
 
--   Public institutions do not need to worry about their competitors.
+-   Public institutions do not need to worry about competition.
 :::
 
 . . .
@@ -312,14 +351,14 @@ Then what difference would it make who's the who?
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-It wouldn't have to be about *business*.
+Public institutions do not need to worry about competition.
 :::
 
 ## Difference no. 2: Political and legal aspects
 
 ::: notes
--   Public institutions can be held to to ensure transparency.
--   Public institutions can be held to to ensure that errors are fixed.
+-   Public institutions can be held to ensure transparency.
+-   Public institutions can be held to ensure that errors are fixed.
 -   Public institutions can be held *accountable*.
 :::
 
@@ -328,7 +367,7 @@ It wouldn't have to be about *business*.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Accountability is possible.
+Public institutions can be held *accountable*.
 :::
 
 ## Difference no. 3: Human rights and values
@@ -338,9 +377,7 @@ Accountability is possible.
 
 -   Public institutions can be held to prioritize values over feasibility.
 
--   Public institutions can be held to support -- not eliminate -- people's individuality.
-
--   Public institutions can be held to minimize, not enforce, social-credit mechanisms.
+-   Public institutions can be held to promote -- not eliminate -- people's individuality.
 :::
 
 . . .
@@ -348,51 +385,17 @@ Accountability is possible.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-The *subject* is still an option.
+Public institutions can be held to promote individuality.
 :::
 
-## Yes but. How does this concern *me*?
+# Yes, but still. How does this concern *me*?
 
 ::: notes
 I'm neither a state nor a CEO. How can I influence any of that?
 
 -   But we all make choices (where we work, how we vote, whether we engage politically...)
--   We may feel we have little agency; but perhaps there are options that are within what we can handle
 -   If nothing else, we can try to keep questioning the things we're told.
--   And there is one thing we keep getting told, in various contexts and y various actors, over and over again.
-:::
-
-. . .
-
-<br /> <br /> <br />
-
-::: {style="text-align: center;"}
-Don't fall for the *blame-the-individual* strategy.
-:::
-
-## A systemic view
-
-::: notes
-Shifting responsibility to individuals has been, and is, the strategy of influential actors in various domains since (probably) forever. (Actors who want to keep the status quo.)
-
-Take climate change: Cleaning up the woods, or buying fewer plastic-wrapped goods, or trying to reduce how much you heat your apartment ... all that's nice, and should be done, but does not compare in any way to the effects of global phenomena like, say, bitcoin.
-:::
-
-. . .
-
-<br />
-
-> More broadly, the emphasis on design ignores the\
-> structural sources of technological harms. \[...\]
-
-<br />
-
-> To the extent that it defines ethical technology in terms of individual design decisions, tech ethics will divert scrutiny away from the economic and political factors that drive digital injustice, limiting our ability to address these forces.
-
-[(https://www.benzevgreen.com/wp-content/uploads/2022/02/21-jsc-intro.pdf)]{style="font-size: 60%;"}
-
-::: notes
-So maybe a first step is in our imagination: Imagine ...
+-   And maybe we could just start with some imagination ... about data science in a more just world.
 :::
 
 ## Maybe data science could be different
