@@ -9,6 +9,8 @@ editor: visual
 
 </br /></br /></br /></br />
 
+. . .
+
 > The tendency to use technology to solve a societal (political, organizational, environmental ...) problem.
 
 ::: notes
@@ -39,7 +41,7 @@ Let me give just three quick, non-fictitious examples to make clear what this is
 
 . . .
 
--   [*Problem*]{style="color: #645394;"}: On average, starting from 2014, there has been more than one mass shooting a day.
+-   [*Problem*]{style="color: #645394;"}: Starting from 2014, there has been more than one mass shooting a day in the US on average.
 
 . . .
 
@@ -199,10 +201,10 @@ Public institutions will be stuck with us.
 ## [*Why*]{style="color: #645394;"} -- what you *won't* hear: Power
 
 ::: notes
--   If we do this, we can seriously shape how people live.
--   If we do this, we can seriously shape how people think.
--   If we do this, we can seriously shape how people feel.
--   If we do this, we can seriously shape who people *are*.
+-   If we do this, we get to define how people live.
+-   If we do this, we get to define how people think.
+-   If we do this, we get to define how people feel.
+-   If we do this, we get to define who people *are*.
 :::
 
 . . .
@@ -210,12 +212,14 @@ Public institutions will be stuck with us.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-If we do this, we can seriously shape who people *are*.
+We get to define who people *are*.
 :::
 
 # Dissecting the [*who*]{style="color: #645394;"}
 
 ## [Who]{style="color: #645394;"} is *who*?
+
+. . .
 
 <br />
 
@@ -254,6 +258,7 @@ We make learning more effective and efficient.
 ::: notes
 -   We record, process and store a lot of \[extremely\] personal data.
 -   We constantly track and analyze your behavior.
+-   Once we're there, anyone who wants in has to follow our rules.
 -   You learn; *we're learning* from you.
 :::
 
@@ -263,21 +268,6 @@ We make learning more effective and efficient.
 
 ::: {style="text-align: center;"}
 You learn; *we're learning from you.*
-:::
-
-## Edtech -- what you *won't* hear: Market domination
-
-::: notes
--   Once we have "gotten in", network effects will make it things very hard for hypothetical competitors.
--   Once we have "gotten in", anyone who wants in has to follow our rules.
-:::
-
-. . .
-
-<br /> <br /> <br />
-
-::: {style="text-align: center;"}
-Want in? Follow our rules.
 :::
 
 ## Edtech -- what you *won't* hear: Shaping society
@@ -333,7 +323,7 @@ We said that the WHO was about who designs, implements, and hosts the solution; 
 +-------------+-------------------------------------------------+-----------------------------------------------+
 
 ::: notes
-Then what difference would it make who's the who?
+Then what difference would it make who is implementing the fix?
 :::
 
 ## Difference no. 1: Business models
@@ -351,7 +341,7 @@ Then what difference would it make who's the who?
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions do not need to worry about competition.
+Public institutions do not need to worry about market position.
 :::
 
 ## Difference no. 2: Political and legal aspects
