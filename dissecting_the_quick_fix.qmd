@@ -17,7 +17,7 @@ Often defined as "the belief that technology can be used to solve any problem". 
 Let me give just three quick, non-fictitious examples to make clear what this is about.
 :::
 
-## Example: Suppressed population groups rising up
+## Example: Riots
 
 . . .
 
@@ -39,7 +39,7 @@ Let me give just three quick, non-fictitious examples to make clear what this is
 
 . . .
 
--   [*Problem*]{style="color: #645394;"}: Since 2014, the US has averaged more than one mass shooting a day.
+-   [*Problem*]{style="color: #645394;"}: On average, starting from 2014, there has been more than one mass shooting a day.
 
 . . .
 
@@ -145,7 +145,7 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 We're here for you.
 :::
 
-## [*Why*]{style="color: #645394;"}: What you *won't* hear - individual reasons
+## [*Why*]{style="color: #645394;"} -- what you *won't* hear: Individual reasons
 
 ::: notes
 -   This will look good on my resume.
@@ -163,7 +163,7 @@ We're here for you.
 It's just *so* cool that this can even be done.
 :::
 
-## [*Why*]{style="color: #645394;"}: What you *won't* hear - organizational reasons
+## Why -- what you *won't* hear: Organizational reasons
 
 ::: notes
 -   If we do this, we'll be strengthening our existing \[but always threatened\] monopoly.
@@ -179,13 +179,13 @@ It's just *so* cool that this can even be done.
 We're the good guys.
 :::
 
-## [*Why*]{style="color: #645394;"}: What you won't hear - side effects
+## [*Why*]{style="color: #645394;"} -- what you won't hear: Side effects
 
 ::: notes
 -   If we implement this, we'll be able to harvest valuable data \[to be used in targeted advertising\].
 -   If we implement this, we'll be able to harvest valuable data \[to be used to train our neural networks\].
 -   If we do this, we'll have a foot in the door to \[build that yet more impactful thing\].
--   If we do this, public institutions will be seriously reliant on us.
+-   If we do this, public institutions will be stuck with us.
 :::
 
 . . .
@@ -193,10 +193,10 @@ We're the good guys.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions will be seriously reliant on us.
+Public institutions will be stuck with us.
 :::
 
-## [*Why*]{style="color: #645394;"}: What you *won't* hear - power
+## [*Why*]{style="color: #645394;"} -- what you *won't* hear: Power
 
 ::: notes
 -   If we do this, we can seriously shape how people live.
@@ -249,7 +249,7 @@ Let's investigate this by example: Education technology (a.k.a. edtech)
 We make learning more effective and efficient.
 :::
 
-## Edtech: What you *won't* hear -- how it works
+## Edtech -- what you *won't* hear: How it works
 
 ::: notes
 -   We record, process and store a lot of \[extremely\] personal data.
@@ -265,7 +265,7 @@ We make learning more effective and efficient.
 You learn; *we're learning from you.*
 :::
 
-## Edtech: What you *won't* hear -- market domination
+## Edtech -- what you *won't* hear: Market domination
 
 ::: notes
 -   Once we have "gotten in", network effects will make it things very hard for hypothetical competitors.
@@ -280,7 +280,7 @@ You learn; *we're learning from you.*
 Want in? Follow our rules.
 :::
 
-## Edtech: What you *won't* hear -- shaping society
+## Edtech -- what you *won't* hear: Shaping society
 
 ::: notes
 -   We define *how* people learn.
@@ -297,7 +297,7 @@ Want in? Follow our rules.
 We define what deserves to be forgotten.
 :::
 
-## Edtech: What you *won't* hear -- the concept of humanity
+## Edtech -- what you *won't* hear: The idea of humanity
 
 ::: notes
 -   We define the past.
@@ -322,15 +322,15 @@ We said that the WHO was about who designs, implements, and hosts the solution; 
 
 ## Imagine a dimension, *public ... private*
 
-+-------------+------------------------------------------------------------+--------------------------------------------------+
-|             | PUBLIC                                                     | PRIVATE                                          |
-+=============+============================================================+==================================================+
-| | Examples  | (true) democracy                                           | corporation, foundation, NGO                     |
-+-------------+------------------------------------------------------------+--------------------------------------------------+
-| | Features  | democratic decision process, participation, supra-locality | lack of the ones to the left; otherwise, varying |
-+-------------+------------------------------------------------------------+--------------------------------------------------+
-| | Values    | fairness, justice, human rights, accountability            | dependent on political agenda                    |
-+-------------+------------------------------------------------------------+--------------------------------------------------+
++-------------+-------------------------------------------------+-----------------------------------------------+
+|             | PUBLIC                                          | PRIVATE                                       |
++=============+=================================================+===============================================+
+| | Examples  | (true) democracy                                | corporation, foundation, NGO                  |
++-------------+-------------------------------------------------+-----------------------------------------------+
+| | Features  | democratic decision process, participation      | lack of those on the left; otherwise, varying |
++-------------+-------------------------------------------------+-----------------------------------------------+
+| | Values    | fairness, justice, human rights, accountability | dependent on political agenda                 |
++-------------+-------------------------------------------------+-----------------------------------------------+
 
 ::: notes
 Then what difference would it make who's the who?
@@ -399,6 +399,8 @@ I'm neither a state nor a CEO. How can I influence any of that?
 :::
 
 ## Maybe data science could be different
+
+. . .
 
 <br />
 
