@@ -1,7 +1,9 @@
 ---
 title: "Dissecting the quick fix"
 subtitle: "Analysing tech-solutionist solutions"
-format: revealjs
+format:
+  revealjs: 
+    theme: dark
 editor: visual
 ---
 
@@ -23,55 +25,55 @@ Let me give just three quick, non-fictitious examples to make clear what this is
 
 . . .
 
--   [*Problem*]{style="color: #645394;"}: Suppressed population groups (e.g., ethnic minorities) start to mobilise.
+-   [*Problem*]{style="color: #20B2AA;"}: Suppressed population groups (e.g., ethnic minorities) start to mobilise.
 
 . . .
 
--   [*Observation*]{style="color: #645394;"}: This is more likely to happen / to become violent when it is hot -- very hot.
+-   [*Observation*]{style="color: #20B2AA;"}: This is more likely to happen / to become violent when it is hot -- very hot.
 
 . . .
 
--   [*Solution*]{style="color: #645394;"}: Install climatization throughout.
+-   [*Solution*]{style="color: #20B2AA;"}: Install climatization throughout.
 
 . . .
 
--   [*Gain*]{style="color: #645394;"}: We don't have to actually address those groups' demands.
+-   [*Gain*]{style="color: #20B2AA;"}: We don't have to actually address those groups' demands.
 
 ## Example: Mass shootings
 
 . . .
 
--   [*Problem*]{style="color: #645394;"}: Starting from 2014, there has been more than one mass shooting a day in the US on average.
+-   [*Problem*]{style="color: #20B2AA;"}: Starting from 2014, there has been more than one mass shooting a day in the US on average.
 
 . . .
 
--   [*Observation*]{style="color: #645394;"}: You can't always see if someone is carrying a gun.
+-   [*Observation*]{style="color: #20B2AA;"}: You can't always see if someone is carrying a gun.
 
 . . .
 
--   [*Solution*]{style="color: #645394;"}: Install advanced surveillance technology.
+-   [*Solution*]{style="color: #20B2AA;"}: Install advanced surveillance technology.
 
 . . .
 
--   [*Gain*]{style="color: #645394;"}: We don't have to change the laws related to gun ownership.
+-   [*Gain*]{style="color: #20B2AA;"}: We don't have to change the laws related to gun ownership.
 
 ## Example: Climate change
 
 . . .
 
--   [*Problem*]{style="color: #645394;"}: Climate change is rendering parts of the Earth inhabitable, and significantly deteriorates living conditions in others.
+-   [*Problem*]{style="color: #20B2AA;"}: Climate change is rendering parts of the Earth inhabitable, and significantly deteriorates living conditions in others.
 
 . . .
 
--   [*Observation*]{style="color: #645394;"}: Time is passing, and we are less and less on track for keeping the situation under control.
+-   [*Observation*]{style="color: #20B2AA;"}: Time is passing, and we are less and less on track for keeping the situation under control.
 
 . . .
 
--   [*Solution*]{style="color: #645394;"}: Move to Mars (or wherever, in space).
+-   [*Solution*]{style="color: #20B2AA;"}: Move to Mars (or wherever, in space).
 
 . . .
 
--   [*Gain*]{style="color: #645394;"}: \*We\* survive (and get to have "fun").
+-   [*Gain*]{style="color: #20B2AA;"}: \*We\* survive (and get to have "fun").
 
 ::: notes
 Now, with the last example, you're probably noticing we're getting close to a sarcastic, cynical way of talking about the topic. Indeed, it would be easy to go on bringing revolting, disgusting examples. But disgust really does not lead us anywhere. For example, moving to space evidently is absurd and injust; but what about other "tech fixes" proposed to handle climate change -- the various forms of so-called "geoengineering"? If we rely on (shared) disgust and outrage only ... - we won't be able to spot less aversive cases - we won't be able to convince others
@@ -82,8 +84,7 @@ Now, with the last example, you're probably noticing we're getting close to a sa
 ::: notes
 -   It *solves* a problem. (A tautology, but an important one.)
 -   It solves a *problem*. (It matters.)
--   It solves a *hard* problem. (Why else would we care.)
--   It solves a *problem* we don't really know how to solve otherwise. (And there are many of them.)
+-   It solves a *hard* problem. (One we wouldn't know how to solve otherwise.)
 -   It solves a *problem* whose other solutions would involve *sacrifices*. (That's the last thing we want.)
 -   It solves a problem we're terribly *scared* about.
 :::
@@ -96,42 +97,48 @@ Now, with the last example, you're probably noticing we're getting close to a sa
 It solves a problem we're terribly scared about.
 :::
 
-## We need to be more clear about how we assess "solutions"
+# We need to be more clear about how we assess "solutions"
 
 ::: notes
 So, if we do see that solutionism can look attractive ... what can we do
 
 We would like
 
--   A framework to analyze a "solution" along explicitly stated, communicable, and weightable dimensions.
--   BUT: An analysis may NOT be restricted to the purely technical.
--   Suggestion: For maximum openness and generality, follow the **W**-questions (what, where, when, who, why - plus how).
--   To counter-balance the usual type of discourse, we'll want to re-distribute focus from the WHAT to the *WHO* and *WHY*.
+-   A framework to analyze a "solution" along explicitly stated, communicable, and weighteable dimensions.
+-   NOT restricted to the purely technical.
+-   Suggestion: Follow the **W**-questions (what, where, when, who, why - plus how).
+-   Specifically, focus on the most neglected ones: *WHO* and *WHY*.
 :::
+
+## A framework of W's
+
+-   [*What*]{style="color: #20B2AA;"} does the "solution" do? (Includes the complete technical workflow.)
 
 . . .
 
-<br /> <br />
 
-Commonly, the focus is on the *what* and maybe, the *where* and the *when*. (Sometimes, even the *how*).
+-   [*Where*]{style="color: #20B2AA;"}, [*when*]{style="color: #20B2AA;"}, and [*to whom*]{style="color: #20B2AA;"} will the "solution" be applied? (I.e., the complete -- geographical, social, political -- context.)
 
-<br />
+. . .
 
-I would like to focus on the neglected [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}.
 
-# Not "just" [*what*]{style="color: #645394;"} (and [*where*]{style="color: #645394;"} and [*when*]{style="color: #645394;"} and [*how*]{style="color: #645394;"}): But [*why*]{style="color: #645394;"} and [*who*]{style="color: #645394;"}
+-   [*How*]{style="color: #20B2AA;"} will the "solution" be applied? (Details matter.)
 
-::: notes
-Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
+. . .
 
--   *What* does the "solution" do? I.e. the complete technical workflow, starting from what datasets were used, how a model was trained, up to and including how it was evaluated.
--   *Where*, *when*, and *to whom* will the "solution" be applied? I.e. the complete (geographical, social, political) context.
--   *How* exactly will the solution be applied? Details matter.
-:::
 
-# Dissecting the [*why*]{style="color: #645394;"}
+-    [*Who*]{style="color: #20B2AA;"} is implementing the "solution"? (More to come.)
 
-## [*Why*]{style="color: #645394;"}: What'll you hear
+. . .
+
+
+-    [*Why*]{style="color: #20B2AA;"} is the "solution" developed? (More on this, too).
+
+# Not "just" [*what*]{style="color: #20B2AA;"} (and [*how*]{style="color: #20B2AA;"}): But [*why*]{style="color: #20B2AA;"} and [*who*]{style="color: #20B2AA;"}
+
+# Dissecting the [*why*]{style="color: #20B2AA;"}
+
+## [*Why*]{style="color: #20B2AA;"}: What'll you hear
 
 ::: notes
 -   We want to help.
@@ -147,7 +154,7 @@ Since those won't be in-focus: What do I mean by WHAT, WHERE, WHEN, and HOW?
 We're here for you.
 :::
 
-## [*Why*]{style="color: #645394;"} -- what you *won't* hear: Individual reasons
+## [*Why*]{style="color: #20B2AA;"} -- what you *won't* hear: Individual reasons
 
 ::: notes
 -   This will look good on my resume.
@@ -181,7 +188,7 @@ It's just *so* cool that this can even be done.
 We're the good guys.
 :::
 
-## [*Why*]{style="color: #645394;"} -- what you won't hear: Side effects
+## [*Why*]{style="color: #20B2AA;"} -- what you won't hear: Side effects
 
 ::: notes
 -   If we implement this, we'll be able to harvest valuable data \[to be used in targeted advertising\].
@@ -198,7 +205,7 @@ We're the good guys.
 Public institutions will be stuck with us.
 :::
 
-## [*Why*]{style="color: #645394;"} -- what you *won't* hear: Power
+## [*Why*]{style="color: #20B2AA;"} -- what you *won't* hear: Power
 
 ::: notes
 -   If we do this, we get to define how people live.
@@ -215,9 +222,9 @@ Public institutions will be stuck with us.
 We get to define who people *are*.
 :::
 
-# Dissecting the [*who*]{style="color: #645394;"}
+# Dissecting the [*who*]{style="color: #20B2AA;"}
 
-## [Who]{style="color: #645394;"} is *who*?
+## [Who]{style="color: #20B2AA;"} is *who*?
 
 . . .
 
@@ -304,7 +311,7 @@ We define what deserves to be forgotten.
 We define what it means to be human.
 :::
 
-# Can you say again how this is about the [*who*]{style="color: #645394;"}?
+# Can you say again how this is about the [*who*]{style="color: #20B2AA;"}?
 
 ::: notes
 We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it.
@@ -384,7 +391,7 @@ Public institutions can be held to promote individuality.
 I'm neither a state nor a CEO. How can I influence any of that?
 
 -   But we all make choices (where we work, how we vote, whether we engage politically...)
--   If nothing else, we can try to keep questioning the things we're told.
+-   If nothing else, we can try to keep questioning the things we're told. (in the spirit of this talk)
 -   And maybe we could just start with some imagination ... about data science in a more just world.
 :::
 
@@ -398,6 +405,6 @@ What if ...
 
 <br />
 
--   Data were used not to perpetuate, but [*change*]{style="color: #645394;"} the status quo?
--   Data were used to make social relations more [*egalitarian*]{style="color: #645394;"}, more [*just*]{style="color: #645394;"}?
--   Data were used to [*subvert*]{style="color: #645394;"} privileges, not [*reinforce*]{style="color: #645394;"} them?
+-   Data were used not to perpetuate, but [*change*]{style="color: #20B2AA;"} the status quo?
+-   Data were used to make social relations more [*egalitarian*]{style="color: #20B2AA;"}, more [*just*]{style="color: #20B2AA;"}?
+-   Data were used to [*subvert*]{style="color: #20B2AA;"} privileges, not [*reinforce*]{style="color: #20B2AA;"} them?
