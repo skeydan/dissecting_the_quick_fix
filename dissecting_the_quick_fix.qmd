@@ -29,7 +29,7 @@ Let me give just three quick, non-fictitious examples to make clear what this is
 
 . . .
 
--   [*Observation*]{style="color: #20B2AA;"}: This is more likely to happen / to become violent when it is hot -- very hot.
+-   [*Observation*]{style="color: #20B2AA;"}: This is more likely to happen when it is hot -- very hot.
 
 . . .
 
@@ -43,7 +43,7 @@ Let me give just three quick, non-fictitious examples to make clear what this is
 
 . . .
 
--   [*Problem*]{style="color: #20B2AA;"}: Starting from 2014, there has been more than one mass shooting a day in the US on average.
+-   [*Problem*]{style="color: #20B2AA;"}: Since 2014, on average, there has been more than one mass shooting a day in the US.
 
 . . .
 
@@ -61,11 +61,11 @@ Let me give just three quick, non-fictitious examples to make clear what this is
 
 . . .
 
--   [*Problem*]{style="color: #20B2AA;"}: Climate change is rendering parts of the Earth inhabitable, and significantly deteriorates living conditions in others.
+-   [*Problem*]{style="color: #20B2AA;"}: Climate change is rendering parts of the Earth inhabitable, and strongly impacts living conditions in others.
 
 . . .
 
--   [*Observation*]{style="color: #20B2AA;"}: Time is passing, and we are less and less on track for keeping the situation under control.
+-   [*Observation*]{style="color: #20B2AA;"}: Time is passing, and we are less and less on track to keep the situation under control.
 
 . . .
 
@@ -116,23 +116,19 @@ We would like
 
 . . .
 
-
 -   [*Where*]{style="color: #20B2AA;"}, [*when*]{style="color: #20B2AA;"}, and [*to whom*]{style="color: #20B2AA;"} will the "solution" be applied? (I.e., the complete -- geographical, social, political -- context.)
 
 . . .
-
 
 -   [*How*]{style="color: #20B2AA;"} will the "solution" be applied? (Details matter.)
 
 . . .
 
-
--    [*Who*]{style="color: #20B2AA;"} is implementing the "solution"? (More to come.)
+-   [*Who*]{style="color: #20B2AA;"} is implementing the "solution"? (More to come.)
 
 . . .
 
-
--    [*Why*]{style="color: #20B2AA;"} is the "solution" developed? (More on this, too).
+-   [*Why*]{style="color: #20B2AA;"} is the "solution" developed? (More on this, too).
 
 # Not "just" [*what*]{style="color: #20B2AA;"} (and [*how*]{style="color: #20B2AA;"}): But [*why*]{style="color: #20B2AA;"} and [*who*]{style="color: #20B2AA;"}
 
@@ -172,7 +168,7 @@ We're here for you.
 It's just *so* cool that this can even be done.
 :::
 
-## Why -- what you *won't* hear: Organizational reasons
+## [*Why*]{style="color: #20B2AA;"} -- what you *won't* hear: Organizational reasons
 
 ::: notes
 -   If we do this, we'll be strengthening our existing \[but always threatened\] monopoly.
@@ -265,7 +261,6 @@ We make learning more effective and efficient.
 ::: notes
 -   We record, process and store a lot of \[extremely\] personal data.
 -   We constantly track and analyze your behavior.
--   Once we're there, anyone who wants in has to follow our rules.
 -   You learn; *we're learning* from you.
 :::
 
@@ -319,15 +314,17 @@ We said that the WHO was about who designs, implements, and hosts the solution; 
 
 ## Imagine a dimension, *public ... private*
 
-+-------------+-------------------------------------------------+-----------------------------------------------+
-|             | PUBLIC                                          | PRIVATE                                       |
-+=============+=================================================+===============================================+
-| | Examples  | (true) democracy                                | corporation, foundation, NGO                  |
-+-------------+-------------------------------------------------+-----------------------------------------------+
-| | Features  | democratic decision process, participation      | lack of those on the left; otherwise, varying |
-+-------------+-------------------------------------------------+-----------------------------------------------+
-| | Values    | fairness, justice, human rights, accountability | dependent on political agenda                 |
-+-------------+-------------------------------------------------+-----------------------------------------------+
+<br />
+
++-------------+-------------------------------------------------+--------------------------------------+
+|             | PUBLIC                                          | PRIVATE                              |
++=============+=================================================+======================================+
+| | Examples  | (true) democracy                                | corporation, foundation, NGO         |
++-------------+-------------------------------------------------+--------------------------------------+
+| | Features  | democratic decision process, participation      | lack of what's ⋘; otherwise, varying |
++-------------+-------------------------------------------------+--------------------------------------+
+| | Values    | fairness, justice, human rights, accountability | dependent on political agenda        |
++-------------+-------------------------------------------------+--------------------------------------+
 
 ::: notes
 Then what difference would it make who is implementing the fix?
@@ -338,9 +335,9 @@ Then what difference would it make who is implementing the fix?
 ::: notes
 -   Public institutions do not need to extract private data to make money.
 
--   Public institutions do not need to feed back fresh data into their large deep learning models.
+-   Public institutions do not need to worry about market position.
 
--   Public institutions do not need to worry about competition.
+-   Public institutions do not need to preserve their trade secrets.
 :::
 
 . . .
@@ -348,7 +345,7 @@ Then what difference would it make who is implementing the fix?
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions do not need to worry about market position.
+Public institutions do not need to preserve their trade secrets.
 :::
 
 ## Difference no. 2: Political and legal aspects
@@ -382,7 +379,7 @@ Public institutions can be held *accountable*.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions can be held to promote individuality.
+Public institutions can be held to promote *individuality*.
 :::
 
 # Yes, but still. How does this concern *me*?
@@ -403,8 +400,16 @@ I'm neither a state nor a CEO. How can I influence any of that?
 
 What if ...
 
+. . .
+
 <br />
 
--   Data were used not to perpetuate, but [*change*]{style="color: #20B2AA;"} the status quo?
--   Data were used to make social relations more [*egalitarian*]{style="color: #20B2AA;"}, more [*just*]{style="color: #20B2AA;"}?
--   Data were used to [*subvert*]{style="color: #20B2AA;"} privileges, not [*reinforce*]{style="color: #20B2AA;"} them?
+Data were used not to perpetuate, but [*change*]{style="color: #20B2AA;"} the status quo?
+
+. . .
+
+Data were used to make social relations more [*egalitarian*]{style="color: #20B2AA;"}, more [*just*]{style="color: #20B2AA;"}?
+
+. . .
+
+Data were used to [*subvert*]{style="color: #20B2AA;"} privileges, not [*reinforce*]{style="color: #20B2AA;"} them?
