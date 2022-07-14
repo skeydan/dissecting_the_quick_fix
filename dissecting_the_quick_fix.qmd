@@ -310,21 +310,23 @@ We define what it means to be human.
 
 ::: notes
 We said that the WHO was about who designs, implements, and hosts the solution; who has access to its data; who can fix it.
+
+We can put these WHOs on a dimension ...
 :::
 
 ## Imagine a dimension, *public ... private*
 
 <br />
 
-+-------------+-------------------------------------------------+--------------------------------------+
-|             | PUBLIC                                          | PRIVATE                              |
-+=============+=================================================+======================================+
-| | Examples  | (true) democracy                                | corporation, foundation, NGO         |
-+-------------+-------------------------------------------------+--------------------------------------+
-| | Features  | democratic decision process, participation      | lack of what's ⋘; otherwise, varying |
-+-------------+-------------------------------------------------+--------------------------------------+
-| | Values    | fairness, justice, human rights, accountability | dependent on political agenda        |
-+-------------+-------------------------------------------------+--------------------------------------+
++----------------+-------------------------------------------------+--------------------------------------+
+|                | PUBLIC                                          | PRIVATE                              |
++================+=================================================+======================================+
+| | Prototype(s) | (ideal) democracy                               | corporation, foundation, NGO         |
++----------------+-------------------------------------------------+--------------------------------------+
+| | Features     | democratic decision process, participation      | lack of what's ⋘; otherwise, varying |
++----------------+-------------------------------------------------+--------------------------------------+
+| | Values       | fairness, justice, human rights, accountability | dependent on political agenda        |
++----------------+-------------------------------------------------+--------------------------------------+
 
 ::: notes
 Then what difference would it make who is implementing the fix?
@@ -382,7 +384,7 @@ Public institutions can be held *accountable*.
 Public institutions can be held to promote *individuality*.
 :::
 
-# Yes, but still. How does this concern *me*?
+# But still. What can *I* do?
 
 ::: notes
 I'm neither a state nor a CEO. How can I influence any of that?
