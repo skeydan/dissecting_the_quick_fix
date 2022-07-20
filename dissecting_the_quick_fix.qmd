@@ -5,6 +5,8 @@ format:
   revealjs: 
     theme: dark
 editor: visual
+self-contained: true
+output-file: dissecting_the_quick_fix.html
 ---
 
 ## Tech solutionism
