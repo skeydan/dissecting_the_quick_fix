@@ -206,6 +206,8 @@ Public institutions will be stuck with us.
 ## [*Why*]{style="color: #20B2AA;"} -- what you *won't* hear: Power
 
 ::: notes
+*... now, thinking about what technology does to people ... -\>*
+
 -   If we do this, we get to define how people live.
 -   If we do this, we get to define how people think.
 -   If we do this, we get to define how people feel.
@@ -277,6 +279,8 @@ You learn; *we're learning from you.*
 ## Edtech -- what you *won't* hear: Shaping society
 
 ::: notes
+*... this is about education, forming people ... so how does this shape society?*
+
 -   We define *how* people learn.
 -   We define *what* is learned.
 -   We define what *deserves* to be learnt.
@@ -294,6 +298,8 @@ We define what deserves to be forgotten.
 ## Edtech -- what you *won't* hear: The idea of humanity
 
 ::: notes
+*... and thinking about how shared concepts, shared culture, shared values define us ... -\>*
+
 -   We define the past.
 -   We define the present.
 -   We define the future.
@@ -339,9 +345,9 @@ Then what difference would it make who is implementing the fix?
 ::: notes
 -   Public institutions do not need to extract private data to make money.
 
--   Public institutions do not need to worry about market position.
-
 -   Public institutions do not need to preserve their trade secrets.
+
+-   Public institutions do not need to worry about market position.
 :::
 
 . . .
@@ -349,15 +355,15 @@ Then what difference would it make who is implementing the fix?
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions do not need to preserve their trade secrets.
+Public institutions do not need to worry about market position.
 :::
 
 ## Difference no. 2: Political and legal aspects
 
 ::: notes
 -   Public institutions can be held to ensure transparency.
--   Public institutions can be held to ensure that errors are fixed.
 -   Public institutions can be held *accountable*.
+-   Public institutions can be obliged to be fair.
 :::
 
 . . .
@@ -365,17 +371,18 @@ Public institutions do not need to preserve their trade secrets.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions can be held *accountable*.
+Public institutions can be obliged to be *fair*.
 :::
 
 ## Difference no. 3: Human rights and values
 
 ::: notes
--   Public institutions can be held to respect human rights.
 
 -   Public institutions can be held to prioritize values over feasibility.
 
--   Public institutions can be held to promote -- not eliminate -- people's individuality.
+-   Public institutions can be held to respect human rights.
+
+-   Public institutions can be held to promote -- not erase -- people's individuality.
 :::
 
 . . .
@@ -383,7 +390,7 @@ Public institutions can be held *accountable*.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-Public institutions can be held to promote *individuality*.
+Public institutions can be held to promote, not erase, *individuality*.
 :::
 
 # But still. What can *I* do?
