@@ -18,8 +18,6 @@ output-file: dissecting_the_quick_fix.html
 > The tendency to use technology to solve a societal (political, organizational, environmental ...) problem.
 
 ::: notes
-Often defined as "the belief that technology can be used to solve any problem". Doesn't have to be put in so strong a way, though.
-
 Let me give just three quick, non-fictitious examples to make clear what this is about.
 :::
 
@@ -167,7 +165,7 @@ We're here for you.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-It's just *so* cool that this can even be done.
+It's just so cool that this can even be done.
 :::
 
 ## [*Why*]{style="color: #20B2AA;"} -- what you *won't* hear: Organizational reasons
@@ -219,7 +217,7 @@ Public institutions will be stuck with us.
 <br /> <br /> <br />
 
 ::: {style="text-align: center;"}
-We get to define who people *are*.
+We define who people *are*.
 :::
 
 # Dissecting the [*who*]{style="color: #20B2AA;"}
@@ -362,8 +360,8 @@ Public institutions do not need to worry about market position.
 
 ::: notes
 -   Public institutions can be held to ensure transparency.
--   Public institutions can be held *accountable*.
--   Public institutions can be obliged to be fair.
+-   Public institutions can be held accountable.
+-   Public institutions can be obliged to be *fair*.
 :::
 
 . . .
@@ -377,7 +375,6 @@ Public institutions can be obliged to be *fair*.
 ## Difference no. 3: Human rights and values
 
 ::: notes
-
 -   Public institutions can be held to prioritize values over feasibility.
 
 -   Public institutions can be held to respect human rights.
