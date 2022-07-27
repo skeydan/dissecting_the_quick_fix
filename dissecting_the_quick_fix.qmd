@@ -112,6 +112,8 @@ We would like
 
 ## A framework of W's
 
+. . .
+
 -   [*What*]{style="color: #20B2AA;"} does the "solution" do? (Includes the complete technical workflow.)
 
 . . .
